@@ -1,0 +1,1001 @@
+Household_ID,Dietary_Preferences,Family_Size,Food_Item,Purchase_Amount,Consumption_Amount,Waste_Amount,Waste_Type,Storage_Method,Disposal_Method,Timestamp
+db142552-23bb-495d-9991-cc0138536b04,Vegan,1,Meat,17.67,14.49,3.18,Avoidable,Refrigerated,Donation,2024-03-17
+11ce28fe-3331-4261-a3c1-4888a5a53d65,Omnivore,1,Beverages,13.08,9.1,3.98,Avoidable,Pantry,Trash,2024-06-26
+e92bc800-d043-473e-9111-43ecd8e1ad69,Omnivore,6,Meat,1.64,1.21,0.43,Avoidable,Frozen,Donation,2024-07-26
+f91d51f5-09b1-4f80-bc7f-06ebaaf71a2d,Pescatarian,5,Grains,6.18,1.36,4.82,Avoidable,Refrigerated,Trash,2024-08-07
+ef3e6de5-f1cf-4a75-aa70-c029cb483f7d,Pescatarian,6,Meat,5.02,4.67,0.35,Avoidable,Pantry,Trash,2024-03-30
+98fde3a6-1dab-4ad1-98b2-f5b702791577,Pescatarian,3,Dairy,14.31,0.89,13.42,Avoidable,Refrigerated,Feed Animals,2024-04-11
+9c6b090c-fd63-4d4f-a7b3-fa5aa1fe6cd9,Omnivore,1,Beverages,19.59,9.92,9.66,Avoidable,Refrigerated,Donation,2024-06-13
+48b4b2d3-935a-440b-87b8-d5cb42c99421,Pescatarian,4,Snacks,12.74,4.19,8.54,Avoidable,Refrigerated,Compost,2024-04-05
+6ef39cac-74bb-42f3-a3ae-2f39771ce146,Vegetarian,4,Fruits,4.03,2.63,1.4,Avoidable,Pantry,Feed Animals,2024-04-22
+1d5aa22d-90a5-4c24-bd9c-037778239711,Vegetarian,4,Beverages,17.81,11.12,6.68,Avoidable,Refrigerated,Feed Animals,2024-04-22
+2ba9eab5-ae04-4d2c-94f1-fe08a2a74897,Pescatarian,4,Snacks,1.1,0.64,0.46,Avoidable,Frozen,Compost,2024-07-05
+89ceed1b-fe3a-476a-8b23-529ee47bf195,Vegetarian,4,Beverages,18.64,0.82,17.83,Avoidable,Refrigerated,Trash,2024-06-28
+82c61f0d-8944-4e38-b2bf-20abda044ffe,Vegetarian,1,Vegetables,12.98,11.54,1.44,Avoidable,Refrigerated,Donation,2024-06-29
+8ca0b0e4-87f2-4421-b84b-03a5440da740,Vegan,4,Grains,8.58,3.25,5.33,Avoidable,Frozen,Donation,2024-07-25
+6f241563-b91d-4d5f-b71e-3a6c8ebccf0d,Pescatarian,4,Meat,18.75,9.12,9.63,Avoidable,Refrigerated,Donation,2024-02-09
+dcb5a527-cdb3-4a93-8a5b-f1b82d5e0829,Vegetarian,1,Fruits,18.2,8.6,9.6,Avoidable,Pantry,Feed Animals,2024-06-08
+9f85a086-7423-4f98-b515-1483dfea481b,Pescatarian,2,Snacks,16.0,7.17,8.83,Avoidable,Refrigerated,Trash,2024-01-05
+4f9afc98-e10c-473b-b4fb-316e7a65fda9,Vegetarian,1,Meat,17.5,10.48,7.02,Avoidable,Pantry,Feed Animals,2024-03-25
+696a258a-f986-412d-9b8d-7c5dcd483375,Omnivore,2,Beverages,11.31,6.48,4.83,Avoidable,Refrigerated,Compost,2024-08-01
+95548b61-b201-44b2-9257-ee9083e5d86f,Omnivore,6,Meat,16.09,2.0,14.09,Avoidable,Pantry,Compost,2024-01-04
+50609468-2c9d-4412-98fc-f620da431a12,Vegan,5,Fruits,3.5,1.22,2.28,Avoidable,Frozen,Donation,2024-05-02
+9c904030-cb14-43a5-bd91-8c7c56991646,Vegan,4,Grains,7.48,2.49,4.98,Avoidable,Refrigerated,Feed Animals,2024-02-25
+4a3b07d7-42e8-427e-9c7d-68da7a6c91bf,Omnivore,3,Meat,17.29,16.08,1.21,Avoidable,Frozen,Donation,2024-02-01
+079406a4-1b18-4a00-82a5-982b4f038f2d,Pescatarian,4,Snacks,16.0,8.17,7.83,Avoidable,Frozen,Donation,2024-08-19
+6330d8f3-2517-40b4-93a8-ab83a9340a63,Vegetarian,4,Vegetables,8.41,5.06,3.36,Avoidable,Refrigerated,Donation,2024-08-16
+61f91398-a469-4b68-8975-850de7535ed9,Vegetarian,6,Snacks,18.47,11.46,7.01,Avoidable,Refrigerated,Compost,2024-02-23
+97129c6d-d430-4877-9692-c94edfb14db2,Pescatarian,1,Snacks,17.72,0.91,16.81,Avoidable,Pantry,Compost,2024-06-29
+45b27858-1768-40a9-bba8-2c537bb7eeaf,Vegetarian,3,Meat,10.08,4.06,6.03,Avoidable,Frozen,Donation,2024-01-22
+30f055ac-a89d-4bae-9f24-94900d65169b,Pescatarian,3,Dairy,10.91,5.42,5.5,Avoidable,Refrigerated,Trash,2024-04-26
+d194f6d6-1335-46b1-a44c-7d8426a80f31,Vegan,1,Dairy,17.39,2.22,15.17,Avoidable,Pantry,Compost,2024-03-19
+beb9e70a-4feb-48ae-af37-ade53d555a24,Vegan,6,Snacks,11.2,1.86,9.33,Avoidable,Refrigerated,Donation,2024-01-06
+2cee998c-e4b6-404a-9116-00181a0e8e61,Vegetarian,5,Meat,6.6,2.11,4.49,Avoidable,Frozen,Compost,2024-05-05
+a3e41f22-df98-4f88-9f7d-c3d374eec6e6,Pescatarian,2,Vegetables,7.55,3.05,4.5,Avoidable,Frozen,Donation,2024-03-24
+4602b0f5-e4cc-4321-889a-ab18e9cdf417,Vegan,4,Vegetables,6.96,5.94,1.02,Avoidable,Refrigerated,Trash,2024-01-21
+a3e33610-a982-454a-aab4-adaa12283613,Vegetarian,3,Fruits,12.11,2.22,9.89,Avoidable,Refrigerated,Trash,2024-04-17
+ce91f440-f542-4e51-bb4c-9a3d601849ca,Vegetarian,6,Beverages,2.91,2.16,0.75,Avoidable,Pantry,Compost,2024-01-29
+786aa95e-a206-440e-96fc-7ae48a44ccd3,Pescatarian,2,Grains,19.58,6.88,12.7,Avoidable,Refrigerated,Donation,2024-04-30
+8239ee6b-a6f2-43ed-8f9f-7faaca895c17,Vegetarian,1,Fruits,2.07,0.57,1.5,Avoidable,Refrigerated,Donation,2024-03-19
+c5d58d98-76e2-4187-b97b-15bf9a8f0550,Vegetarian,1,Vegetables,18.17,14.88,3.29,Avoidable,Refrigerated,Donation,2024-04-10
+1ef0ec76-85b2-4271-a821-da9ec89691cd,Vegetarian,3,Meat,11.27,10.34,0.93,Avoidable,Refrigerated,Trash,2024-07-03
+7aec1608-fdeb-4374-a4b3-81b453d762cd,Vegan,4,Fruits,8.75,2.38,6.36,Avoidable,Pantry,Trash,2024-09-21
+53bc52a2-56e2-44d6-8790-2a0e59865484,Vegan,5,Vegetables,15.9,1.12,14.78,Avoidable,Refrigerated,Donation,2024-01-02
+ab080037-398a-4d1c-9463-1bea891f8074,Vegan,5,Meat,1.29,0.96,0.33,Avoidable,Frozen,Donation,2024-08-28
+f64fa282-c53d-4df0-9665-93ebbcd81a55,Vegetarian,3,Fruits,13.98,5.32,8.66,Avoidable,Frozen,Compost,2024-01-11
+46a419a6-7fa1-49a0-81d7-3c8bbe296858,Vegetarian,6,Snacks,15.64,9.9,5.74,Avoidable,Frozen,Trash,2024-02-07
+36e08b69-bebd-4f24-ac29-47a7ae3190a4,Pescatarian,4,Vegetables,17.49,11.51,5.98,Avoidable,Refrigerated,Compost,2024-04-19
+54274198-480b-49e1-ae5b-e9d50aa042db,Pescatarian,1,Vegetables,17.05,0.83,16.22,Avoidable,Frozen,Feed Animals,2024-07-06
+0b5c0079-e25f-41b5-827d-d835b9557183,Omnivore,4,Grains,3.67,0.9,2.77,Avoidable,Pantry,Trash,2024-03-17
+74830d78-0f46-4dcf-9277-6ee7b5db8614,Omnivore,5,Beverages,5.1,4.89,0.21,Avoidable,Pantry,Compost,2024-09-13
+fb07ca0f-7abf-481c-8f67-06737c2679c1,Vegetarian,4,Grains,11.33,11.12,0.2,Avoidable,Frozen,Donation,2024-04-08
+87838a0b-7513-4546-8ada-fcc6ddacb723,Omnivore,6,Beverages,12.08,7.54,4.54,Avoidable,Pantry,Feed Animals,2024-06-04
+ed5a4235-425b-452a-95c5-ea224b95e90c,Vegetarian,5,Meat,16.31,11.88,4.43,Avoidable,Refrigerated,Compost,2024-05-12
+b5029312-9411-45ca-adaf-f9ffb13de258,Omnivore,6,Meat,13.32,10.13,3.18,Avoidable,Frozen,Compost,2024-08-24
+489dcc9a-b137-45da-8e87-67e15520c3b4,Vegetarian,2,Fruits,9.93,7.48,2.45,Avoidable,Refrigerated,Compost,2024-01-31
+459eea21-2c23-4e04-9eca-5cb837024774,Omnivore,3,Fruits,5.09,1.62,3.47,Avoidable,Pantry,Compost,2024-03-24
+362a7f17-6909-4217-8470-2f68f994fd0b,Vegan,2,Vegetables,7.31,4.8,2.51,Avoidable,Frozen,Donation,2024-01-01
+7d09fd2d-dbe7-4377-94ef-f7af6a7cb21d,Omnivore,3,Vegetables,3.36,1.58,1.78,Avoidable,Frozen,Donation,2024-01-21
+74ea7388-b556-4310-bd06-cef8a7525ef6,Pescatarian,2,Meat,6.79,5.88,0.91,Avoidable,Pantry,Trash,2024-06-03
+46cfa8b0-29a9-49d8-94aa-23076166a526,Omnivore,2,Dairy,14.12,13.86,0.26,Avoidable,Frozen,Compost,2024-05-23
+0c5f40ac-6306-46dd-8de0-fd79dfaf9733,Pescatarian,6,Grains,10.8,8.17,2.63,Avoidable,Frozen,Compost,2024-01-31
+5ee44ee1-4cb8-4825-a44f-4c73db490ad9,Omnivore,6,Fruits,2.15,1.57,0.58,Avoidable,Refrigerated,Donation,2024-06-15
+0ed74848-bdf5-4b4b-a494-37c4406f6f8d,Omnivore,1,Snacks,8.52,0.71,7.81,Avoidable,Frozen,Compost,2024-04-15
+b620b72a-dcb9-4120-a9e8-36821ed08127,Pescatarian,4,Beverages,8.77,0.98,7.79,Avoidable,Pantry,Compost,2024-05-11
+cabe73c2-950c-4a24-8554-91ac3465bc1a,Omnivore,4,Fruits,14.99,6.94,8.05,Avoidable,Frozen,Compost,2024-02-11
+2304eeee-4565-42be-b984-be3901ffe607,Vegan,4,Snacks,6.35,0.64,5.71,Avoidable,Refrigerated,Compost,2024-01-03
+0934a098-2ce7-4da5-bf98-462201649df4,Omnivore,6,Snacks,13.35,9.87,3.48,Avoidable,Frozen,Trash,2024-09-20
+1bbed867-7c95-4bf3-9f25-189840e3e110,Omnivore,4,Dairy,17.18,7.85,9.33,Avoidable,Pantry,Trash,2024-06-23
+33d4b8d4-d589-4b98-aa7a-d7420ce0a630,Pescatarian,6,Meat,12.07,2.49,9.59,Avoidable,Refrigerated,Compost,2024-05-06
+a7298b3e-d837-4bad-acf1-a38309580c11,Vegetarian,3,Fruits,3.05,0.77,2.28,Avoidable,Pantry,Feed Animals,2024-01-07
+117dd6e7-1d4d-41a8-892b-730428b4cfc5,Omnivore,5,Fruits,1.16,0.51,0.65,Avoidable,Frozen,Feed Animals,2024-04-16
+a0e2eac1-279c-4cd9-aba8-76608a6d075d,Vegetarian,3,Fruits,7.7,2.01,5.69,Avoidable,Frozen,Compost,2024-08-04
+30159905-fe53-4625-816a-1b8e7ac01e43,Vegetarian,3,Vegetables,17.88,11.1,6.78,Avoidable,Refrigerated,Donation,2024-03-15
+5dd9ba9d-4c7c-4387-9bce-61734379f4e6,Vegetarian,3,Beverages,2.43,0.58,1.85,Avoidable,Pantry,Donation,2024-03-25
+d497fde2-b27c-4ff6-99a4-56635a6f4a9f,Pescatarian,6,Dairy,12.36,7.64,4.71,Avoidable,Pantry,Donation,2024-05-23
+9f4a6ed5-7832-4277-9f88-222efb627811,Omnivore,2,Meat,2.69,1.61,1.08,Avoidable,Pantry,Feed Animals,2024-09-23
+b663965d-2ea0-4513-b4d4-904775e02aff,Omnivore,4,Beverages,8.1,7.63,0.47,Avoidable,Frozen,Trash,2024-07-07
+18c39a4f-6b67-4430-9c5f-abe10543bb9e,Pescatarian,2,Meat,11.97,11.27,0.7,Avoidable,Pantry,Feed Animals,2024-06-30
+e5fb7b27-b101-45d7-9700-0261312dad0f,Omnivore,4,Fruits,13.44,6.41,7.03,Avoidable,Refrigerated,Donation,2024-08-30
+ad16110a-6ebe-4c2b-963d-5bd41a8cb5e0,Pescatarian,4,Beverages,3.01,1.1,1.9,Avoidable,Frozen,Donation,2024-05-27
+802d66ec-889e-4794-9cfe-362d366e2c02,Vegan,3,Dairy,13.59,12.15,1.44,Avoidable,Pantry,Trash,2024-02-19
+5a99da57-0e27-4317-b8ff-d9c5322a8d4e,Pescatarian,6,Dairy,6.33,2.68,3.65,Avoidable,Frozen,Trash,2024-05-22
+1b6f0953-1b10-487a-85f8-e6db786f71d7,Vegetarian,1,Snacks,17.42,15.02,2.4,Avoidable,Pantry,Donation,2024-01-04
+1183bc31-5743-4b0a-9308-0d662fec678a,Pescatarian,6,Meat,19.16,4.51,14.65,Avoidable,Pantry,Donation,2024-05-31
+4408413e-286d-40e0-9efc-a5e9a75a3d6b,Vegetarian,1,Fruits,7.69,3.18,4.51,Avoidable,Refrigerated,Compost,2024-05-13
+fb363ceb-895d-47c5-9c3a-32a3f52e3213,Vegetarian,5,Vegetables,13.17,11.01,2.16,Avoidable,Frozen,Donation,2024-01-28
+589d90a6-ccdc-41c5-a9af-121bc7c5c0df,Omnivore,4,Meat,7.25,4.57,2.68,Avoidable,Refrigerated,Feed Animals,2024-03-03
+39120cd5-1a73-4c12-b62d-cd1f84cb472f,Omnivore,5,Meat,9.77,2.54,7.23,Avoidable,Refrigerated,Donation,2024-08-29
+bddd0d6e-73b3-4a13-92d6-c5ae5b7e2517,Vegan,6,Vegetables,18.66,15.57,3.1,Avoidable,Pantry,Donation,2024-04-04
+f5c5e6b5-40ce-4ad1-ac2e-a511fc9a3b46,Omnivore,4,Dairy,11.62,8.65,2.98,Avoidable,Frozen,Trash,2024-03-20
+0b0ee67f-0e94-4bea-90d3-1229bb8b29a3,Omnivore,3,Dairy,19.48,7.08,12.4,Avoidable,Frozen,Donation,2024-06-09
+d19081cc-5a7a-44d2-b389-6791e56bb756,Pescatarian,3,Dairy,5.79,1.86,3.93,Avoidable,Frozen,Trash,2024-08-02
+c332c466-6ddf-4c25-a476-2fbe9fe689b0,Vegan,4,Fruits,5.08,4.05,1.03,Avoidable,Frozen,Feed Animals,2024-09-02
+689e30dc-f1c6-4ddf-9078-7d65fb2ddc10,Omnivore,2,Vegetables,9.83,7.12,2.71,Avoidable,Pantry,Compost,2024-07-25
+2aa581e9-18b7-4810-97bb-a3a75b77df0c,Vegan,1,Fruits,12.78,1.76,11.02,Avoidable,Pantry,Donation,2024-01-11
+ed0c5ae8-2c04-4b69-9bc2-3844deb3501a,Vegetarian,2,Fruits,10.85,3.41,7.44,Avoidable,Frozen,Donation,2024-08-03
+7ac30f47-9634-482b-a247-18e785607bb9,Omnivore,3,Dairy,9.25,1.31,7.94,Avoidable,Pantry,Feed Animals,2024-04-01
+12f7da8d-f535-4673-b497-540a417df485,Vegan,6,Vegetables,2.36,2.3,0.06,Avoidable,Pantry,Feed Animals,2024-01-17
+72ef9cba-45b2-48ed-8d9a-7c81f7fb6db6,Vegetarian,3,Dairy,11.39,0.66,10.73,Avoidable,Pantry,Feed Animals,2024-06-22
+9ce06e8b-6c72-4921-a129-01fe1dc727a7,Omnivore,3,Grains,11.15,8.91,2.24,Avoidable,Refrigerated,Compost,2024-06-25
+4ac9ec5c-b3d3-4fba-ae18-07eb8a5e8358,Pescatarian,6,Snacks,9.5,6.45,3.06,Avoidable,Pantry,Donation,2024-02-06
+76094d6a-3b62-4c6d-a0dc-8cbad3a41a77,Vegan,2,Grains,6.55,5.18,1.37,Avoidable,Refrigerated,Trash,2024-01-14
+91e100ed-8134-4228-a377-9466977826ee,Vegetarian,5,Meat,19.38,13.8,5.58,Avoidable,Frozen,Trash,2024-06-15
+58ed0c26-a7da-45c0-ad25-7a9860d8b759,Vegetarian,4,Fruits,1.04,0.82,0.22,Avoidable,Pantry,Donation,2024-06-02
+7f5b3730-5446-4cce-a29c-bbc8f5b23e86,Omnivore,2,Grains,13.48,4.68,8.8,Avoidable,Refrigerated,Compost,2024-03-13
+3ade91bb-4359-4255-8db4-03a28ccef010,Vegetarian,3,Dairy,5.16,3.62,1.54,Avoidable,Pantry,Compost,2024-01-02
+f935bbcb-b490-4e03-aa85-87044419a5af,Pescatarian,2,Snacks,7.49,7.01,0.48,Avoidable,Frozen,Compost,2024-02-24
+636b6cbf-0244-4bc0-bd48-afac71ceba51,Omnivore,2,Meat,11.87,7.28,4.59,Avoidable,Refrigerated,Feed Animals,2024-07-12
+953293b2-8795-4804-bfbe-36e265346cb0,Pescatarian,4,Grains,7.88,7.15,0.73,Avoidable,Pantry,Donation,2024-09-21
+0965a963-01ad-4107-ae1d-d973a38f1c73,Vegetarian,2,Fruits,14.79,3.65,11.14,Avoidable,Frozen,Trash,2024-08-12
+743cb90a-76e0-4b7d-b0df-fad28ee70d60,Pescatarian,3,Fruits,2.11,0.55,1.57,Avoidable,Frozen,Trash,2024-05-24
+f317b596-8e2b-4cea-a038-bc5db2453203,Vegan,6,Vegetables,2.26,0.98,1.28,Avoidable,Frozen,Feed Animals,2024-04-14
+c246c791-9e0f-47f2-9ed3-dcba94c6cb20,Vegan,4,Fruits,2.78,1.09,1.69,Avoidable,Pantry,Donation,2024-06-09
+1b378fe6-a008-43c4-9c67-3c858d3484a1,Vegetarian,6,Grains,9.97,5.17,4.8,Avoidable,Pantry,Feed Animals,2024-02-19
+a85c41cf-cb3a-4776-bbd1-a509be834d93,Pescatarian,4,Meat,11.34,2.75,8.59,Avoidable,Refrigerated,Donation,2024-04-23
+ba7cb754-e2ed-4462-bc7c-03e031103028,Pescatarian,6,Dairy,3.66,3.39,0.27,Avoidable,Refrigerated,Donation,2024-02-07
+05946633-88a6-4fc4-97a7-c10cac4c9919,Pescatarian,5,Vegetables,16.32,0.52,15.8,Avoidable,Refrigerated,Compost,2024-09-21
+0c1b73e7-7d5d-428f-81b1-e4d51176204d,Omnivore,4,Fruits,10.12,6.64,3.48,Avoidable,Refrigerated,Trash,2024-02-16
+b5eee770-c7f3-4ab4-8a4d-25c7a334c2c4,Omnivore,6,Meat,3.76,1.23,2.53,Avoidable,Frozen,Donation,2024-07-19
+5f3fdae3-7a79-4dba-b0ad-b1395198a089,Vegetarian,1,Fruits,2.29,1.21,1.08,Avoidable,Pantry,Compost,2024-01-17
+d28967ce-3755-4bd8-ad89-31aa9dbb9595,Vegetarian,1,Fruits,11.99,6.14,5.85,Avoidable,Pantry,Donation,2024-02-29
+e5e70398-4fa7-4482-9f61-b103d9f9dab9,Vegan,2,Snacks,9.5,8.46,1.04,Avoidable,Frozen,Compost,2024-09-07
+bb1c63b1-efa5-44a3-996a-52545b0f2ebd,Vegetarian,5,Meat,4.64,4.13,0.52,Avoidable,Frozen,Donation,2024-06-05
+127d2c8d-52aa-482d-ba92-08d9369bb0d4,Omnivore,1,Vegetables,10.05,3.6,6.44,Avoidable,Pantry,Trash,2024-05-06
+1da331ee-4e18-4f1d-a605-46a356b81cd5,Omnivore,2,Vegetables,10.45,5.73,4.72,Avoidable,Refrigerated,Feed Animals,2024-06-02
+a01e9a5e-b799-4606-a42a-115ede3eb2d4,Omnivore,5,Vegetables,4.82,2.6,2.21,Avoidable,Refrigerated,Compost,2024-04-24
+d55a91d9-8d80-47f3-bb19-1889a7324d5b,Vegetarian,6,Meat,12.42,9.82,2.59,Avoidable,Pantry,Feed Animals,2024-06-12
+9f3400da-c5db-4117-b99b-cce63a234e30,Pescatarian,6,Meat,19.27,18.48,0.79,Avoidable,Refrigerated,Trash,2024-07-26
+ec729f22-df43-45c5-9e43-203c65dbcbaa,Vegan,3,Beverages,15.21,7.93,7.28,Avoidable,Frozen,Donation,2024-08-03
+de5e3343-4ff2-4ec2-82e8-af07746f419c,Vegetarian,4,Snacks,11.31,9.82,1.5,Avoidable,Frozen,Trash,2024-04-02
+1bb0f1cc-a422-4498-9138-33ecad777f1f,Vegan,5,Fruits,10.02,6.29,3.73,Avoidable,Refrigerated,Feed Animals,2024-06-10
+145d0193-e10a-4364-a390-0337fbf30172,Omnivore,3,Snacks,14.23,8.77,5.47,Avoidable,Pantry,Trash,2024-09-18
+256ff969-8b74-454e-b94f-ee17f34b8f87,Omnivore,3,Meat,4.97,1.16,3.81,Avoidable,Refrigerated,Trash,2024-08-27
+6901792a-3ac5-429b-9072-ccf002f3c6ad,Pescatarian,3,Fruits,15.64,7.37,8.27,Avoidable,Frozen,Donation,2024-02-23
+6b8726cc-5355-48bb-9783-f478f78bdf56,Vegan,6,Meat,6.79,2.04,4.75,Avoidable,Refrigerated,Feed Animals,2024-02-05
+fdb6ce52-08a8-4148-bf5f-54434fa4b9d2,Vegetarian,3,Dairy,16.22,2.63,13.59,Avoidable,Pantry,Donation,2024-01-09
+9d6ae81f-dfca-4621-870a-9d307d138284,Omnivore,5,Beverages,9.57,3.56,6.0,Avoidable,Frozen,Compost,2024-03-24
+50d71f25-13e9-472d-ad5a-c1957c3138f7,Omnivore,3,Fruits,6.21,5.61,0.61,Avoidable,Refrigerated,Trash,2024-08-15
+a336ef10-33e2-4aa5-81e3-e2bf9c25ef32,Vegetarian,3,Grains,6.43,5.42,1.01,Avoidable,Refrigerated,Compost,2024-08-21
+04eae2ad-51d5-46a0-bbd6-861c6a60791f,Vegan,3,Snacks,14.52,1.36,13.16,Avoidable,Pantry,Trash,2024-09-09
+565c637e-a63f-42a1-9935-6de85688d2ee,Pescatarian,4,Snacks,6.11,1.3,4.81,Avoidable,Refrigerated,Trash,2024-03-12
+4e935f89-6ae6-4f4f-97ad-1313518ac397,Omnivore,1,Dairy,10.63,1.29,9.33,Avoidable,Frozen,Compost,2024-07-27
+3b46730c-09cb-41ef-ac3e-1ef1b4d8213f,Pescatarian,3,Fruits,6.41,4.2,2.21,Avoidable,Refrigerated,Compost,2024-07-25
+b0d85c9c-5d3f-4f75-8670-7d89d0abf955,Vegetarian,5,Snacks,15.69,10.52,5.17,Avoidable,Pantry,Donation,2024-01-14
+cf35abc1-f890-4b8e-bb7b-7c7eea4f97b4,Vegan,6,Meat,9.15,0.74,8.4,Avoidable,Pantry,Donation,2024-05-17
+e9cfcc94-9c73-4be0-a052-acc29f877f53,Pescatarian,6,Fruits,11.06,4.45,6.61,Avoidable,Refrigerated,Donation,2024-02-14
+c128ec78-dc72-46cd-a59a-ecf9a80c767b,Vegan,6,Dairy,16.35,12.27,4.08,Avoidable,Pantry,Trash,2024-05-07
+399398d4-f559-4b1f-aab5-87fe994d9217,Vegetarian,4,Vegetables,4.58,4.0,0.58,Avoidable,Refrigerated,Donation,2024-02-26
+7e2fbefb-433a-4a4a-bf8e-8ff0de16c390,Vegan,4,Dairy,5.07,5.02,0.06,Avoidable,Pantry,Trash,2024-03-04
+571accb6-9116-48d1-b2d3-d8f051b3c689,Vegan,2,Snacks,1.09,0.93,0.15,Avoidable,Pantry,Trash,2024-08-03
+1d64dfac-29ad-4f0a-8509-99b63a6b8fcb,Omnivore,2,Grains,6.42,5.5,0.92,Avoidable,Frozen,Donation,2024-07-30
+3c8c2320-3498-4a05-9968-0de401aafa17,Vegetarian,3,Fruits,15.3,12.44,2.86,Avoidable,Refrigerated,Feed Animals,2024-05-04
+b1576561-e983-496f-90e7-0590bd3abd2f,Omnivore,4,Dairy,14.56,4.75,9.81,Avoidable,Frozen,Donation,2024-08-22
+076cd3b0-49b9-4789-be81-a1f6de99bae4,Vegan,5,Vegetables,18.32,13.41,4.91,Avoidable,Pantry,Compost,2024-06-15
+9dc664ba-c449-48ea-b605-cff5feec010b,Vegan,1,Dairy,4.16,2.19,1.97,Avoidable,Frozen,Donation,2024-05-31
+fa3308e9-c787-497c-a4b1-a53c8162a7d9,Vegetarian,3,Fruits,2.82,2.13,0.69,Avoidable,Pantry,Donation,2024-08-18
+c1da4bdd-9a1e-4db4-8943-26c65c566661,Vegetarian,2,Fruits,14.73,7.57,7.16,Avoidable,Pantry,Compost,2024-09-13
+a2718eec-fecf-4c7f-81af-ffe1bd609349,Vegan,1,Beverages,14.79,8.49,6.3,Avoidable,Frozen,Trash,2024-04-03
+c58be2b0-0d47-476a-bba6-dca6735aa43e,Pescatarian,3,Meat,8.16,0.76,7.4,Avoidable,Frozen,Compost,2024-06-23
+45971808-4d4c-40d8-a407-4dec70d6d7eb,Vegetarian,6,Dairy,8.71,6.46,2.25,Avoidable,Frozen,Feed Animals,2024-06-02
+0a49d194-6bb4-4b95-862e-3fab0e5d5da3,Omnivore,6,Vegetables,7.02,4.95,2.07,Avoidable,Refrigerated,Trash,2024-09-09
+598b3778-430f-456f-9d88-00a2e768d3ed,Vegetarian,3,Fruits,10.03,2.23,7.8,Avoidable,Pantry,Trash,2024-01-23
+b8c14a58-82a7-48bf-b4bf-3a9f7e12443a,Vegan,4,Dairy,1.14,0.86,0.28,Avoidable,Refrigerated,Compost,2024-01-27
+20e54e7b-411c-4b16-b396-df157f71f097,Vegan,4,Dairy,10.05,7.34,2.71,Avoidable,Pantry,Trash,2024-01-06
+9cbeb448-df1e-4b1c-972b-ee1e84549d53,Vegetarian,1,Grains,10.95,1.97,8.98,Avoidable,Pantry,Trash,2024-08-02
+daf2644c-5d58-48ed-99ed-c35fb0b3c155,Vegan,4,Fruits,4.26,2.77,1.49,Avoidable,Refrigerated,Donation,2024-02-09
+b22c7ed2-16ae-492b-ae63-135fa2bced7a,Vegan,1,Fruits,10.11,3.74,6.38,Avoidable,Frozen,Compost,2024-07-22
+655051cb-501c-4502-b0ff-8b8602b54025,Vegetarian,1,Meat,17.99,9.39,8.6,Avoidable,Refrigerated,Donation,2024-02-10
+e9eff5d0-78f1-45a3-80d7-cbd66f018d17,Pescatarian,1,Meat,10.16,4.33,5.83,Avoidable,Refrigerated,Donation,2024-07-09
+46d9ef6e-6129-4350-9c4e-d94f7b764922,Pescatarian,2,Vegetables,15.89,9.91,5.97,Avoidable,Refrigerated,Compost,2024-03-07
+d7fb7e19-b6f0-49a4-8da2-bab50da0b6ce,Vegetarian,4,Dairy,13.22,1.89,11.32,Avoidable,Frozen,Donation,2024-07-31
+0b05460e-e154-447b-bd5d-d1df11fe2f7b,Vegetarian,2,Beverages,16.39,2.79,13.61,Avoidable,Refrigerated,Compost,2024-03-09
+0b8cb0b0-6b5d-44aa-afcf-bc6064ae0e14,Pescatarian,3,Meat,1.27,1.16,0.11,Avoidable,Pantry,Feed Animals,2024-07-24
+af2dbfdb-06a8-49a6-9e21-ba3aa160aa53,Vegan,1,Meat,19.28,19.04,0.24,Avoidable,Frozen,Compost,2024-05-04
+e98c4ac7-81d0-4a6d-bba7-0dce3e467a44,Pescatarian,6,Meat,18.54,2.64,15.9,Avoidable,Refrigerated,Donation,2024-03-15
+be5cabb4-27ad-4a8e-be5a-c35edee4dbbf,Omnivore,5,Snacks,14.0,7.12,6.88,Avoidable,Pantry,Donation,2024-07-14
+ee1a6405-181c-4b5a-a74d-8f1676767af9,Omnivore,6,Vegetables,13.62,5.32,8.3,Avoidable,Refrigerated,Feed Animals,2024-06-15
+8e6f1cd0-ce4c-4e31-a5cf-27ea0591ea4d,Vegetarian,5,Beverages,8.36,4.9,3.46,Avoidable,Refrigerated,Trash,2024-01-22
+da4db0fb-ca53-4497-9301-361a4bb741cd,Vegan,4,Beverages,3.28,2.72,0.56,Avoidable,Pantry,Donation,2024-06-08
+731926fd-586a-4a3d-8839-d50519c7a626,Vegan,2,Fruits,16.6,5.9,10.69,Avoidable,Pantry,Donation,2024-07-22
+4cf78f12-83fc-4180-a47a-d457623a2749,Omnivore,6,Grains,19.8,5.94,13.86,Avoidable,Refrigerated,Feed Animals,2024-04-03
+79170ded-98d1-4028-b53e-c2419e174d22,Vegan,6,Snacks,11.79,6.82,4.97,Avoidable,Refrigerated,Feed Animals,2024-04-16
+f72bc467-3044-4171-b7d8-041e42d32984,Omnivore,5,Fruits,7.45,2.99,4.45,Avoidable,Pantry,Compost,2024-01-05
+681a0f6e-bc9f-4527-b41a-ee71f802213b,Vegetarian,1,Beverages,10.19,4.17,6.02,Avoidable,Refrigerated,Compost,2024-07-27
+a01c8bb0-8c4f-4592-abf1-5534ccbe67f0,Vegetarian,5,Grains,9.23,5.1,4.13,Avoidable,Pantry,Donation,2024-03-24
+d798588a-e55e-4096-8238-064142061aaf,Omnivore,2,Vegetables,5.13,1.2,3.93,Avoidable,Refrigerated,Compost,2024-03-14
+4e476d2d-2ab5-4950-86d5-f1ee37f44235,Vegan,6,Beverages,12.62,11.47,1.15,Avoidable,Frozen,Feed Animals,2024-06-10
+7d8831c7-9a6d-4783-96ee-9f8bca6cab0d,Vegan,1,Snacks,12.95,2.05,10.9,Avoidable,Pantry,Trash,2024-02-06
+5857f08f-ae7d-4674-a8c5-8eede58d3075,Omnivore,2,Beverages,11.23,10.21,1.02,Avoidable,Frozen,Compost,2024-05-04
+4406959b-c6d6-4525-976a-bcb028dc721f,Pescatarian,2,Meat,4.06,1.96,2.09,Avoidable,Frozen,Compost,2024-05-15
+1ed37148-4e19-49b2-8e99-4550902948d2,Vegetarian,2,Fruits,8.36,5.09,3.27,Avoidable,Frozen,Compost,2024-06-16
+4d09e211-8d49-4431-a0dc-145e1e0d89d6,Omnivore,4,Fruits,7.42,4.63,2.78,Avoidable,Pantry,Donation,2024-06-10
+cec1a9bb-9f3c-4148-ae75-d4da338ac2db,Omnivore,1,Snacks,4.71,2.36,2.35,Avoidable,Pantry,Compost,2024-09-02
+bad76086-c04d-4fdd-85b5-8148a7df1b23,Vegetarian,3,Grains,12.56,9.9,2.66,Avoidable,Frozen,Feed Animals,2024-04-08
+46fd1a20-7447-4cad-8c1f-6dd358b7bcf5,Omnivore,5,Fruits,10.17,2.7,7.48,Avoidable,Pantry,Feed Animals,2024-07-05
+ffe7a829-8d3e-42a2-acdc-d594ab2d0c38,Vegan,5,Vegetables,13.29,11.65,1.64,Avoidable,Frozen,Feed Animals,2024-01-22
+2e173170-9345-409f-aae3-74e314e239af,Vegetarian,6,Vegetables,1.65,1.57,0.08,Avoidable,Refrigerated,Feed Animals,2024-02-21
+9f99687d-18a1-43b1-834e-9a0f76e2ec61,Pescatarian,5,Dairy,16.88,10.6,6.28,Avoidable,Refrigerated,Feed Animals,2024-01-03
+f9c6394f-09ae-4184-a850-a93274d41538,Omnivore,3,Beverages,15.97,13.57,2.39,Avoidable,Pantry,Compost,2024-06-19
+5a258eea-4375-49d2-9305-2959c749c901,Vegetarian,3,Vegetables,6.94,4.78,2.17,Avoidable,Refrigerated,Compost,2024-08-23
+efcf475b-91da-406c-bbc6-89b466ce66f1,Vegan,2,Dairy,3.69,1.01,2.68,Avoidable,Frozen,Feed Animals,2024-02-18
+3a89e290-af28-4e90-ac76-8d1a141613a2,Omnivore,1,Meat,7.54,6.89,0.64,Avoidable,Frozen,Donation,2024-03-24
+a06ee20c-f679-4eb9-b2d2-61a66a8a4a0c,Vegan,4,Grains,16.65,1.4,15.24,Avoidable,Frozen,Feed Animals,2024-07-20
+cd57aece-a1f4-4294-ace4-50dc7a46126f,Pescatarian,6,Meat,1.7,1.62,0.08,Avoidable,Frozen,Feed Animals,2024-07-24
+f8b3c5d3-bb9c-4f00-9421-3ce6f57c1aee,Pescatarian,5,Vegetables,5.16,4.87,0.28,Avoidable,Refrigerated,Trash,2024-07-07
+4dfa82f3-6beb-4758-ab8f-92b5fa0f2775,Pescatarian,3,Meat,18.67,13.48,5.2,Avoidable,Refrigerated,Feed Animals,2024-03-25
+746aaf1a-55a5-4881-91f5-a2d91aaa3fd4,Vegetarian,3,Dairy,16.01,1.18,14.83,Avoidable,Frozen,Trash,2024-06-01
+48152315-4327-4316-b13b-eccfe7e03b0c,Vegan,2,Fruits,1.05,0.62,0.43,Avoidable,Refrigerated,Compost,2024-07-17
+4aa43c00-d33a-4793-a30c-bdf4aa026e63,Vegan,1,Vegetables,3.22,2.48,0.74,Avoidable,Refrigerated,Feed Animals,2024-08-12
+8b78a023-67c9-43bb-ba27-0e6f27eef6d4,Vegetarian,4,Beverages,7.57,3.43,4.13,Avoidable,Refrigerated,Trash,2024-07-01
+43f8d3de-fcd8-4b6f-a1fb-bb19fa11e3cc,Vegan,6,Vegetables,5.88,4.86,1.02,Avoidable,Refrigerated,Compost,2024-01-02
+cea26892-9c19-4064-9713-5969a1d0e039,Omnivore,6,Grains,6.12,3.54,2.58,Avoidable,Refrigerated,Feed Animals,2024-01-01
+d9319208-ca5f-4185-82af-334b09eb5c9b,Omnivore,6,Dairy,12.51,1.43,11.08,Avoidable,Frozen,Trash,2024-03-08
+bf2503cc-8780-4cde-9342-2e033cceeac8,Pescatarian,3,Vegetables,4.09,1.54,2.55,Avoidable,Refrigerated,Compost,2024-03-24
+8f3da7a2-25a2-40e0-8de2-e94e562cb435,Vegetarian,2,Vegetables,15.48,2.73,12.74,Avoidable,Frozen,Compost,2024-04-21
+5b301c76-dd12-4866-9044-4b4a4d309675,Pescatarian,5,Dairy,5.03,1.47,3.56,Avoidable,Pantry,Compost,2024-08-14
+f5651bee-ee41-4331-ae4f-0ca19493a3f9,Vegetarian,4,Meat,19.65,7.77,11.88,Avoidable,Refrigerated,Compost,2024-07-07
+31dbe440-5970-4032-b515-9d01b322de44,Pescatarian,5,Beverages,7.72,6.27,1.45,Avoidable,Pantry,Trash,2024-08-07
+fff627f8-d368-4c50-ad62-29b2f39d5110,Pescatarian,2,Dairy,4.7,0.93,3.77,Avoidable,Pantry,Compost,2024-06-03
+67670e0f-c963-4dd5-a0a1-bc188e6fcf2a,Omnivore,4,Meat,8.14,3.63,4.51,Avoidable,Refrigerated,Donation,2024-09-24
+2cd66524-86bc-4e29-ab33-a553b39aee3c,Vegetarian,3,Dairy,1.85,1.63,0.22,Avoidable,Pantry,Donation,2024-07-12
+61744bc7-a8af-4f73-97b0-9049f9de231c,Omnivore,6,Snacks,14.41,9.09,5.32,Avoidable,Pantry,Feed Animals,2024-07-05
+20e49d88-8396-43de-9f1c-c4e2e14d5478,Vegan,4,Fruits,14.71,9.38,5.33,Avoidable,Refrigerated,Trash,2024-04-21
+6db7bcce-372b-4a79-8acc-d6a9e89f4ba8,Omnivore,3,Vegetables,8.7,2.03,6.67,Avoidable,Frozen,Feed Animals,2024-09-03
+1bc9471d-1812-480e-b13e-6df4ee2b4eb5,Vegan,6,Grains,5.34,3.82,1.52,Avoidable,Refrigerated,Donation,2024-03-14
+a3bbc4ce-8fd9-4863-bbc1-49d4008da8f7,Pescatarian,3,Dairy,1.47,0.54,0.92,Avoidable,Frozen,Feed Animals,2024-04-29
+c0c8f144-0111-48ac-825a-bf111f3e6ddd,Pescatarian,1,Dairy,6.17,0.81,5.36,Avoidable,Refrigerated,Feed Animals,2024-09-19
+bd55b912-917e-404c-88df-ac6d31297e17,Omnivore,5,Grains,13.02,7.39,5.63,Avoidable,Pantry,Feed Animals,2024-04-07
+e9dc5dfe-3064-456f-91dc-01873b5e4a79,Vegan,5,Fruits,16.58,6.21,10.38,Avoidable,Pantry,Compost,2024-01-11
+f5dd9ab5-2525-403f-ab97-7076a5d9e17c,Omnivore,3,Snacks,11.44,2.66,8.78,Avoidable,Pantry,Compost,2024-06-17
+fac1eae8-9132-4889-9d80-cf6eaa3fa266,Vegetarian,4,Meat,12.17,9.66,2.51,Avoidable,Frozen,Trash,2024-01-21
+364224fb-e087-4510-a408-b6bc876f9df7,Pescatarian,2,Dairy,15.81,13.22,2.6,Avoidable,Frozen,Compost,2024-04-19
+2c6222a2-17b6-44a4-9d6b-42acc68f8da1,Vegan,4,Snacks,14.17,2.27,11.91,Avoidable,Pantry,Feed Animals,2024-03-26
+04966fcf-997d-46e5-9200-3e7207aff5d6,Vegan,4,Snacks,19.01,3.48,15.53,Avoidable,Frozen,Feed Animals,2024-09-06
+d3ebb495-1ff7-4e98-a4da-67b08c90d367,Pescatarian,3,Fruits,7.69,7.64,0.06,Avoidable,Pantry,Feed Animals,2024-02-25
+e02f248d-928e-487a-af40-071335770be1,Omnivore,3,Grains,13.67,2.37,11.3,Avoidable,Refrigerated,Donation,2024-06-25
+2d850758-981a-40e8-9de7-26d609d9b53b,Omnivore,6,Beverages,13.8,2.66,11.14,Avoidable,Pantry,Trash,2024-08-04
+a368d585-59fd-4729-9765-aa43dd208aef,Vegan,2,Fruits,12.39,3.27,9.12,Avoidable,Frozen,Compost,2024-06-27
+b837d7b1-d39f-4f19-b923-dde5ef14f505,Vegan,4,Meat,8.57,5.03,3.54,Avoidable,Pantry,Feed Animals,2024-06-05
+8b0c34c8-8020-4c2c-853c-c5247be1957c,Pescatarian,5,Beverages,12.07,1.88,10.18,Avoidable,Refrigerated,Trash,2024-02-01
+dad71da2-bbef-4747-89e7-f83e4a892549,Omnivore,4,Meat,16.34,10.11,6.23,Avoidable,Pantry,Compost,2024-06-23
+8e37e7b9-13b2-48ff-acc2-58bba9931420,Vegan,6,Grains,2.16,1.66,0.51,Avoidable,Frozen,Donation,2024-01-22
+3ae9874d-c7b5-4cbc-b9f8-59f7f29630a1,Omnivore,3,Meat,10.95,7.43,3.52,Avoidable,Pantry,Donation,2024-05-02
+4c29b7c8-8dcd-43bc-b8b3-5aed75e6d91b,Vegetarian,5,Meat,14.86,1.28,13.58,Avoidable,Pantry,Trash,2024-08-12
+c1cd1ff2-f7eb-4987-81fe-b4c90dc38c0f,Omnivore,4,Fruits,2.72,2.55,0.16,Avoidable,Frozen,Trash,2024-03-03
+7f35cbf8-3dd7-4133-8f99-9f42be46a525,Vegan,1,Fruits,18.95,17.11,1.84,Avoidable,Pantry,Donation,2024-01-27
+cce84ccc-26b8-4ca9-88ed-20a1ff7908df,Omnivore,2,Meat,2.26,1.45,0.81,Avoidable,Refrigerated,Feed Animals,2024-09-18
+32c8d325-cc7c-4137-a61f-261aa48fcfc6,Pescatarian,3,Meat,15.66,2.45,13.21,Avoidable,Pantry,Donation,2024-01-15
+4b92d9c3-9dde-4c18-9f6f-749e22ee3a8c,Vegan,1,Grains,6.51,4.69,1.83,Avoidable,Frozen,Trash,2024-01-13
+928778e2-d30b-4802-be10-7ed1ebe709bf,Omnivore,5,Dairy,14.37,8.2,6.17,Avoidable,Frozen,Donation,2024-05-01
+a2e080c0-9244-4705-aa4d-506017bf2900,Pescatarian,5,Vegetables,4.56,0.96,3.6,Avoidable,Refrigerated,Donation,2024-01-22
+2132f41f-0bef-4cef-b82c-9851e86682a3,Vegan,5,Dairy,10.95,10.04,0.9,Avoidable,Frozen,Donation,2024-08-03
+9d0b5ccc-d786-4d34-81b4-85a7c74e6265,Omnivore,1,Vegetables,3.16,2.55,0.61,Avoidable,Refrigerated,Compost,2024-04-19
+e10b8946-b39c-43ac-8f06-efa9310b4d72,Omnivore,2,Dairy,18.91,14.33,4.58,Avoidable,Pantry,Donation,2024-07-23
+88196fd0-65c0-4efd-b700-52d8f5d4cb3d,Vegetarian,2,Grains,5.69,2.25,3.44,Avoidable,Refrigerated,Trash,2024-02-19
+ae4191ac-e1cf-4684-95fb-3d08a9492700,Vegan,6,Fruits,5.63,3.22,2.41,Avoidable,Pantry,Donation,2024-07-14
+b7b2eecb-87c2-406f-acf7-16b9b126237e,Pescatarian,5,Meat,6.35,4.17,2.18,Avoidable,Pantry,Compost,2024-04-24
+353144f5-aeb9-4d8d-95d6-f1cbe811b1d6,Vegan,6,Grains,13.93,12.87,1.07,Avoidable,Refrigerated,Donation,2024-05-29
+44e5704c-6452-4369-aa29-90b90b0c4966,Omnivore,5,Dairy,3.17,2.64,0.52,Avoidable,Frozen,Trash,2024-03-30
+18d5960a-a663-4d39-ae54-ca8a96599f72,Vegan,1,Beverages,8.41,1.76,6.65,Avoidable,Refrigerated,Feed Animals,2024-06-12
+61eb41e7-fafb-4e1a-ba5f-4cf57f40533e,Vegetarian,5,Grains,17.39,1.81,15.59,Avoidable,Pantry,Trash,2024-08-26
+85122366-9634-485f-b4e5-f26c41d1532b,Vegetarian,2,Grains,14.75,12.52,2.24,Avoidable,Frozen,Compost,2024-01-01
+0a3651a4-6d5f-4298-927d-1448a69bedb3,Vegan,4,Fruits,5.59,5.34,0.24,Avoidable,Frozen,Compost,2024-05-01
+234c43eb-eee3-4a6e-a5b8-46b76b73c6ce,Omnivore,5,Dairy,5.13,3.6,1.53,Avoidable,Refrigerated,Donation,2024-01-10
+8e470728-1b0a-4afe-86df-0de375587088,Vegan,3,Vegetables,16.08,8.01,8.07,Avoidable,Frozen,Donation,2024-06-18
+1edf8a6b-7c54-4d5f-b0d7-3eb960bc18dc,Vegetarian,2,Beverages,2.75,0.94,1.81,Avoidable,Refrigerated,Donation,2024-05-06
+51546bf9-cc33-4bf8-9357-216108a8154b,Omnivore,6,Beverages,7.92,4.79,3.13,Avoidable,Refrigerated,Trash,2024-02-24
+70223845-d268-45b0-bb85-4e7fc14f9271,Omnivore,6,Fruits,3.82,1.17,2.64,Avoidable,Refrigerated,Trash,2024-05-22
+2ac23b21-61f0-491e-9bec-b5dab3927400,Vegetarian,5,Grains,17.12,0.92,16.21,Avoidable,Refrigerated,Compost,2024-03-15
+e6bff52f-0197-4c76-ba5d-90bbff58eeb3,Vegetarian,2,Dairy,11.24,1.57,9.67,Avoidable,Refrigerated,Donation,2024-01-30
+1adda5e4-15ef-44e4-9c43-b81905b1e939,Pescatarian,4,Snacks,2.28,1.89,0.39,Avoidable,Frozen,Feed Animals,2024-01-18
+03b9a346-e041-4775-b4ed-090a526c54bc,Pescatarian,1,Dairy,1.66,0.98,0.68,Avoidable,Pantry,Trash,2024-01-17
+d28ac35e-d2ce-4bc9-9ff8-c694126bf72d,Vegetarian,1,Vegetables,11.53,10.51,1.02,Avoidable,Frozen,Donation,2024-04-12
+f0e8c729-2bd2-4857-b8e3-b6a562d84e5b,Pescatarian,5,Vegetables,15.48,5.55,9.92,Avoidable,Pantry,Trash,2024-07-02
+a585e2c2-bf83-4fea-a4d9-a49d3326c981,Vegetarian,4,Vegetables,7.12,0.56,6.56,Avoidable,Pantry,Feed Animals,2024-03-25
+45b255b7-2e9b-455e-b214-72440c56ae82,Pescatarian,6,Grains,16.2,8.71,7.49,Avoidable,Frozen,Compost,2024-03-14
+c74ed76d-c01a-411a-93a9-a02333979508,Pescatarian,6,Vegetables,11.23,2.56,8.68,Avoidable,Refrigerated,Compost,2024-05-07
+26a0b0e6-9fbe-4fec-afd0-979fd7727bee,Omnivore,6,Dairy,9.06,5.91,3.15,Avoidable,Refrigerated,Feed Animals,2024-04-10
+98c8b742-dfaf-48e7-938e-e95a057ad603,Omnivore,3,Vegetables,12.58,3.6,8.98,Avoidable,Refrigerated,Donation,2024-02-16
+35e98371-8061-4efd-9bca-075a5ff2d75a,Pescatarian,6,Dairy,16.22,10.28,5.94,Avoidable,Refrigerated,Feed Animals,2024-07-15
+ef1b4878-1281-471f-b6b4-a312f9c04692,Vegan,3,Dairy,17.81,8.06,9.75,Avoidable,Refrigerated,Donation,2024-09-08
+76622a53-005b-4ef8-ac1e-e0d005f2ceb1,Vegetarian,3,Vegetables,8.39,3.49,4.89,Avoidable,Pantry,Donation,2024-03-06
+88e20a57-4a54-4369-940a-dabe639dc4f5,Omnivore,1,Meat,17.16,9.39,7.77,Avoidable,Refrigerated,Compost,2024-02-10
+798e5ccd-8eef-4653-a896-36f90472c3b4,Pescatarian,1,Meat,5.83,2.9,2.92,Avoidable,Refrigerated,Feed Animals,2024-05-22
+50111eb6-81f7-4d15-8723-41b080e5d90e,Vegan,2,Vegetables,4.36,2.69,1.67,Avoidable,Pantry,Donation,2024-07-29
+e76d8aa6-0464-4a13-bb9e-e78879ecc2a8,Vegetarian,4,Grains,16.83,8.54,8.29,Avoidable,Frozen,Trash,2024-02-12
+35401914-6403-42f8-bbfe-8b20fc2eddf3,Omnivore,4,Meat,12.76,0.96,11.79,Avoidable,Frozen,Compost,2024-04-19
+5b48e263-8d02-4db7-a769-7d536c67837e,Omnivore,2,Grains,2.09,2.05,0.04,Avoidable,Frozen,Compost,2024-07-03
+34b78b08-09ab-4609-b14c-798e77007d9e,Omnivore,3,Beverages,19.59,17.18,2.41,Avoidable,Refrigerated,Donation,2024-05-07
+172a88f2-0072-46b0-99ca-24c6c859aeeb,Omnivore,6,Grains,2.5,2.44,0.06,Avoidable,Pantry,Feed Animals,2024-04-03
+c0c7ce8f-5f18-4b5f-b8d1-b25f28ba6b09,Vegan,3,Beverages,7.38,3.5,3.88,Avoidable,Frozen,Compost,2024-03-12
+d5587036-387b-4441-be39-d9005cd7ba45,Vegan,1,Beverages,2.79,1.05,1.74,Avoidable,Frozen,Compost,2024-01-02
+afa4ff2b-faf6-44a6-85a4-f0d1cb77b2ab,Vegetarian,2,Meat,5.12,1.15,3.97,Avoidable,Frozen,Trash,2024-03-06
+9360ae25-6409-40ba-8d10-ebfb06a425ea,Vegetarian,3,Grains,3.06,0.63,2.42,Avoidable,Pantry,Donation,2024-06-11
+e017c589-ab7e-4f86-9d76-eb91134142e6,Omnivore,5,Beverages,5.43,4.53,0.9,Avoidable,Refrigerated,Donation,2024-06-25
+71f23956-9f4e-474a-867d-c4cd82351f0e,Omnivore,3,Vegetables,3.81,3.72,0.09,Avoidable,Refrigerated,Donation,2024-09-12
+c81d68af-4b68-4b23-a295-885b25e7d860,Vegetarian,4,Beverages,14.04,1.53,12.51,Avoidable,Frozen,Feed Animals,2024-01-22
+f68df0e8-3fef-4154-89b9-3de1dd20ea4c,Vegetarian,5,Dairy,7.99,7.19,0.8,Avoidable,Refrigerated,Compost,2024-02-20
+bff44565-63f2-416e-be55-4aef56f7fdb5,Omnivore,6,Beverages,17.35,11.64,5.71,Avoidable,Refrigerated,Trash,2024-04-20
+f8278e86-577d-4815-bc1a-eb625ed1a770,Vegan,5,Snacks,4.97,2.13,2.84,Avoidable,Frozen,Compost,2024-05-15
+c9352e87-3505-4b1b-903b-732f135d52a4,Vegetarian,1,Dairy,19.18,9.72,9.47,Avoidable,Pantry,Compost,2024-05-11
+cbbd6e68-f669-40e6-87af-beb17717e73b,Pescatarian,3,Fruits,12.39,10.78,1.61,Avoidable,Frozen,Trash,2024-01-22
+dd88e289-fcfe-40d0-a514-b54e9a01d78e,Pescatarian,1,Grains,16.69,7.93,8.76,Avoidable,Refrigerated,Compost,2024-04-30
+08aa978f-bfbf-46c2-8432-6b482463c158,Omnivore,1,Grains,9.29,3.54,5.76,Avoidable,Pantry,Feed Animals,2024-07-13
+f68f5a06-0386-4c50-b79d-f6d755051a17,Omnivore,6,Vegetables,8.76,4.11,4.65,Avoidable,Pantry,Trash,2024-06-08
+1b881326-c887-49bc-a098-ef219e4f1dce,Pescatarian,4,Snacks,5.56,2.32,3.25,Avoidable,Frozen,Feed Animals,2024-08-08
+0a55a0b5-c485-4532-b485-ec102153f97c,Omnivore,6,Grains,12.07,3.28,8.79,Avoidable,Frozen,Compost,2024-06-05
+47abe2e7-e5da-4ffb-904f-3d34d01cce99,Vegan,1,Vegetables,19.64,7.48,12.16,Avoidable,Refrigerated,Donation,2024-03-01
+3a76e6e3-fecc-4996-a158-90fa44207376,Omnivore,3,Meat,2.69,1.61,1.08,Avoidable,Pantry,Trash,2024-04-25
+01844cac-ba52-41f3-8ad9-46cbb75a0d05,Omnivore,3,Grains,2.98,1.33,1.65,Avoidable,Pantry,Trash,2024-02-17
+9015ddfa-8e80-4815-870e-904d981b2d3e,Omnivore,3,Grains,5.7,1.84,3.86,Avoidable,Refrigerated,Compost,2024-05-23
+39cbea57-fdee-48e0-b084-baadeeee7326,Vegetarian,2,Dairy,15.24,10.61,4.64,Avoidable,Refrigerated,Trash,2024-05-19
+62f8885b-216a-49a4-8b14-6b6848b54594,Pescatarian,4,Beverages,8.73,2.08,6.65,Avoidable,Frozen,Donation,2024-07-16
+9d5a8160-f594-40c9-ade2-05ad64690361,Vegetarian,3,Snacks,10.96,10.05,0.91,Avoidable,Pantry,Feed Animals,2024-01-05
+6e873686-f81d-4460-b752-1aa4d3a51853,Vegan,3,Meat,9.5,9.08,0.42,Avoidable,Refrigerated,Trash,2024-01-15
+2031a2ce-89b0-4f76-bbfa-15ccf875d829,Pescatarian,2,Snacks,5.66,0.62,5.04,Avoidable,Pantry,Trash,2024-01-24
+9f68a669-f479-4f4c-a5e3-8634f1feed7f,Vegetarian,2,Fruits,9.82,5.6,4.22,Avoidable,Pantry,Donation,2024-01-08
+a36bc8d8-a668-40d3-9f79-0f6ddd850760,Pescatarian,6,Grains,13.34,9.19,4.15,Avoidable,Frozen,Feed Animals,2024-07-18
+e605eaae-da23-4b09-aada-05cd9bb2c8c8,Vegetarian,4,Vegetables,2.42,0.94,1.48,Avoidable,Frozen,Trash,2024-03-15
+a3a6ff6d-cf8c-4df5-b7a7-795f5fed7208,Omnivore,6,Snacks,15.64,9.37,6.28,Avoidable,Pantry,Trash,2024-08-22
+5fd2c23e-05a2-42d5-a646-a47d0a7ed773,Vegan,6,Vegetables,3.57,0.99,2.59,Avoidable,Refrigerated,Donation,2024-06-25
+916ce20e-6a94-4190-85a9-f37cd73dd831,Omnivore,5,Fruits,12.14,4.09,8.05,Avoidable,Pantry,Trash,2024-03-12
+9f67407d-03ee-4242-94a6-89cd9e625e15,Vegetarian,5,Snacks,11.53,0.61,10.92,Avoidable,Refrigerated,Donation,2024-03-26
+072c6864-b923-435e-8076-1d918be2058f,Vegetarian,3,Grains,18.82,11.77,7.05,Avoidable,Frozen,Trash,2024-08-03
+a0cd05cc-933a-468b-970e-a0788c37e994,Pescatarian,1,Grains,16.61,0.58,16.03,Avoidable,Refrigerated,Donation,2024-05-09
+80c41c49-1f9e-4e1b-bbf9-aea550b85335,Vegan,2,Beverages,10.21,7.37,2.84,Avoidable,Refrigerated,Trash,2024-02-13
+33bec29a-7d56-4aa1-982b-227db974961b,Pescatarian,1,Meat,7.74,4.4,3.34,Avoidable,Frozen,Feed Animals,2024-06-02
+ea8d7154-5e39-41a7-af03-ba75204fa163,Pescatarian,6,Beverages,15.01,7.88,7.12,Avoidable,Frozen,Compost,2024-04-22
+82b398da-4acd-4073-a96c-940e20b2f05a,Vegetarian,4,Snacks,18.0,17.52,0.48,Avoidable,Frozen,Feed Animals,2024-05-19
+a057d172-a3a0-46d1-9698-ef73d55ff402,Vegan,4,Snacks,8.66,6.76,1.9,Avoidable,Refrigerated,Feed Animals,2024-05-21
+7e296a57-df22-4b78-b054-3a7a4f42f46b,Omnivore,6,Dairy,4.62,3.87,0.76,Avoidable,Pantry,Feed Animals,2024-03-31
+3ffeb7f7-96bb-45b0-bf62-28a95c993c34,Vegetarian,6,Grains,8.79,5.21,3.58,Avoidable,Frozen,Compost,2024-07-23
+2a65a605-d056-4f54-8903-1622d4acbf1f,Vegan,3,Fruits,10.3,8.31,1.99,Avoidable,Pantry,Trash,2024-05-17
+c1e3114f-ec4c-4d58-8b14-1e2e83d79167,Vegetarian,5,Meat,11.2,8.49,2.71,Avoidable,Frozen,Trash,2024-03-28
+9df9b929-42de-417a-a6c5-9a23e4b9311e,Omnivore,5,Grains,11.72,8.31,3.41,Avoidable,Refrigerated,Donation,2024-02-21
+30d547eb-65e1-4d0f-b70a-49b563ea152a,Vegetarian,2,Beverages,16.67,14.4,2.27,Avoidable,Refrigerated,Feed Animals,2024-03-13
+d0d78c7d-ffa4-4865-ba06-42be640dab02,Pescatarian,5,Snacks,11.16,6.13,5.03,Avoidable,Pantry,Donation,2024-04-07
+90f76b75-b98e-4119-9197-45722a6cff06,Pescatarian,2,Beverages,9.54,1.44,8.1,Avoidable,Pantry,Feed Animals,2024-05-06
+8e687fce-3939-4b73-bafa-205f492aaee1,Vegan,2,Vegetables,6.8,1.46,5.35,Avoidable,Pantry,Trash,2024-03-20
+650a94bb-2b59-4992-8027-ea10776dac20,Vegan,5,Meat,5.4,5.22,0.18,Avoidable,Refrigerated,Compost,2024-02-04
+b775a20e-0e5c-4c20-9f95-77b4d5998d33,Vegetarian,6,Grains,17.16,4.42,12.74,Avoidable,Frozen,Trash,2024-09-14
+77131a27-05e6-4afa-8e8b-72ed1a493ad2,Pescatarian,2,Vegetables,2.05,1.75,0.3,Avoidable,Pantry,Trash,2024-06-23
+18ba5f2d-851b-473d-8186-84af2c9d5881,Omnivore,4,Beverages,15.39,14.69,0.7,Avoidable,Frozen,Donation,2024-03-22
+eaccef13-e4c1-4278-b90b-cf84eaf96a05,Omnivore,4,Fruits,15.94,8.79,7.15,Avoidable,Refrigerated,Donation,2024-05-16
+4207ace2-6376-4fff-8052-b8908802da9b,Omnivore,3,Vegetables,7.7,4.65,3.06,Avoidable,Frozen,Trash,2024-07-25
+318a9cb8-1505-4956-bdc5-53354b4997b9,Vegan,6,Vegetables,7.33,1.1,6.23,Avoidable,Refrigerated,Compost,2024-04-01
+8c698363-0c4d-4256-a730-7d013a0b38e3,Omnivore,6,Fruits,12.35,4.39,7.96,Avoidable,Pantry,Compost,2024-04-18
+4448ca74-0f57-48b0-925a-271f9c30e951,Pescatarian,5,Vegetables,3.84,0.95,2.89,Avoidable,Pantry,Feed Animals,2024-08-13
+fd1669bc-1ed1-49cb-baf0-ca77e82cd45e,Pescatarian,4,Beverages,17.9,1.43,16.47,Avoidable,Refrigerated,Trash,2024-09-07
+4cd70f25-6fe3-4dce-b1ee-f543645368ca,Omnivore,1,Fruits,19.59,13.92,5.67,Avoidable,Refrigerated,Trash,2024-03-13
+ca6fdf38-cf74-440a-bae8-894ec71ecda7,Vegan,3,Grains,8.77,6.63,2.14,Avoidable,Frozen,Donation,2024-06-26
+a773c40f-3769-41e7-bb1d-5736dfdd36e5,Vegetarian,5,Beverages,11.47,6.1,5.37,Avoidable,Refrigerated,Feed Animals,2024-04-15
+bf58f907-b8a5-4f5d-a38e-d3ba956ceac9,Vegan,1,Snacks,17.09,7.59,9.51,Avoidable,Frozen,Feed Animals,2024-09-06
+1ba5d9b2-f7b8-49cd-a39f-939d8060ab89,Omnivore,1,Dairy,11.36,3.49,7.87,Avoidable,Refrigerated,Donation,2024-07-04
+2df450f3-5a36-4f02-9c6e-1983a0b316d9,Vegan,5,Grains,14.64,13.52,1.12,Avoidable,Frozen,Trash,2024-04-14
+95970b1d-e614-436e-b118-9f054d03745e,Vegetarian,4,Beverages,5.09,1.22,3.87,Avoidable,Pantry,Trash,2024-08-19
+7bb5c277-806b-4f72-95d0-bc9682c7f0e6,Vegan,1,Dairy,12.9,11.31,1.59,Avoidable,Refrigerated,Compost,2024-07-25
+f3167734-bb8a-40e4-a120-213bff01c80b,Vegetarian,5,Vegetables,18.66,11.88,6.78,Avoidable,Frozen,Donation,2024-03-06
+1cb6aa01-72b9-4a0f-bae4-f2cb7b4f2dfa,Pescatarian,1,Vegetables,2.36,2.33,0.04,Avoidable,Frozen,Compost,2024-06-11
+0c51b9b6-d863-4053-86a4-68275e937409,Vegan,1,Vegetables,17.97,16.37,1.6,Avoidable,Pantry,Feed Animals,2024-06-23
+c498dec3-c8c0-488e-834d-1a2c9ef9a1d1,Pescatarian,1,Grains,16.93,8.36,8.56,Avoidable,Refrigerated,Feed Animals,2024-08-15
+6f5b2050-c31d-44bd-80a0-13a618506c47,Vegetarian,2,Grains,14.59,2.09,12.5,Avoidable,Refrigerated,Donation,2024-07-10
+b78577be-23ba-48eb-972b-4ab82164643b,Vegetarian,1,Vegetables,19.33,12.08,7.25,Avoidable,Frozen,Donation,2024-08-03
+04063951-1ed3-4e13-b898-f883a4beb43b,Pescatarian,4,Beverages,2.33,1.34,0.98,Avoidable,Frozen,Trash,2024-08-17
+f175cf1d-71fc-4b84-9ca2-ab8e5c4b779d,Omnivore,3,Dairy,14.68,14.31,0.36,Avoidable,Frozen,Feed Animals,2024-04-10
+c091f6a8-2acc-48d5-a175-241d41c1d666,Pescatarian,6,Meat,12.74,0.62,12.13,Avoidable,Frozen,Trash,2024-01-27
+5b560b04-4dbf-4f84-9781-020755a0f3df,Omnivore,4,Snacks,10.03,3.44,6.59,Avoidable,Frozen,Compost,2024-08-12
+2dcb72ae-16e7-4542-bc24-8c5b34ed490b,Omnivore,2,Dairy,9.51,0.95,8.56,Avoidable,Refrigerated,Trash,2024-04-18
+cf929478-0b31-4c44-a497-b3c2a3b4ada8,Vegan,2,Vegetables,1.81,1.03,0.78,Avoidable,Frozen,Donation,2024-06-09
+e249c4c5-e791-474b-9a5e-82656db0845b,Vegetarian,5,Fruits,1.13,0.65,0.48,Avoidable,Pantry,Feed Animals,2024-04-30
+9a1c82c4-c57b-4e5d-a9f8-c0450b1de17f,Omnivore,6,Grains,2.85,2.68,0.17,Avoidable,Pantry,Feed Animals,2024-05-26
+b6396f52-c2f4-47a5-9e9f-4cb048247664,Vegetarian,3,Vegetables,7.9,1.51,6.39,Avoidable,Refrigerated,Compost,2024-09-19
+2370169f-1ea3-403e-b8f9-da8b980b9440,Vegan,4,Beverages,5.81,5.06,0.74,Avoidable,Refrigerated,Donation,2024-05-06
+3a125771-8108-4ddc-adf4-d5c3df07ada0,Vegan,5,Fruits,14.58,5.52,9.06,Avoidable,Pantry,Compost,2024-02-08
+67eb2900-2cc5-4610-b319-bb0c1e0a0930,Omnivore,6,Dairy,18.74,9.38,9.36,Avoidable,Refrigerated,Compost,2024-08-23
+1bb6771a-96ac-467e-983a-b2cf90f5db72,Omnivore,3,Beverages,4.94,2.51,2.43,Avoidable,Refrigerated,Feed Animals,2024-04-29
+9d8c1583-383f-41ec-a398-86e64ce9c8a7,Vegan,1,Snacks,4.59,1.83,2.77,Avoidable,Pantry,Compost,2024-04-15
+72bdb68a-cc8f-42da-86c7-0e2dd0d12723,Pescatarian,4,Fruits,1.78,0.58,1.21,Avoidable,Pantry,Donation,2024-08-23
+5b8458e5-3d72-48d7-8e6d-84a925bbd72a,Omnivore,1,Grains,8.06,3.04,5.02,Avoidable,Pantry,Trash,2024-04-21
+ab2558f7-1a36-47c3-9c0d-f7fc0d24b06f,Vegan,3,Snacks,12.42,7.61,4.81,Avoidable,Pantry,Feed Animals,2024-06-29
+e02d88fe-65d0-4ea8-9483-a6d5d75a433c,Vegetarian,5,Snacks,8.74,2.94,5.8,Avoidable,Pantry,Compost,2024-09-08
+a5c067fc-6560-4496-bbfc-8976c80e5079,Vegan,6,Vegetables,13.1,12.59,0.51,Avoidable,Pantry,Compost,2024-06-21
+e555b4a0-88d8-4fa4-898d-d68efa9c41f6,Vegan,2,Beverages,8.16,3.34,4.82,Avoidable,Refrigerated,Donation,2024-06-28
+ea370c12-0393-42b2-9636-d7a81d9833f6,Vegetarian,2,Beverages,1.36,0.91,0.45,Avoidable,Refrigerated,Feed Animals,2024-08-15
+da9bcd2a-ec96-4a4a-ba60-abc2b1b2ff77,Vegetarian,1,Fruits,5.13,1.21,3.92,Avoidable,Frozen,Donation,2024-07-13
+4f8c35d5-2206-4d8b-bb36-46167c15e1ee,Vegan,4,Meat,6.15,3.73,2.42,Avoidable,Pantry,Donation,2024-01-14
+3b172499-512b-4a0d-9fc6-5470327ae28b,Vegetarian,4,Dairy,17.16,3.42,13.74,Avoidable,Pantry,Feed Animals,2024-01-02
+bb97e4a5-ce6e-4215-9834-1acfd61affd0,Vegan,2,Snacks,18.19,14.46,3.73,Avoidable,Refrigerated,Trash,2024-05-30
+d1ff7f06-b711-49be-a415-c06664ed32f3,Pescatarian,4,Vegetables,9.4,4.31,5.09,Avoidable,Refrigerated,Compost,2024-06-06
+7288f0ea-a0f8-4113-9c21-ae30d3396048,Vegetarian,2,Beverages,7.28,5.31,1.97,Avoidable,Refrigerated,Trash,2024-06-29
+5f53e90b-0566-49e3-be3a-8706a8233337,Omnivore,1,Fruits,7.38,1.89,5.49,Avoidable,Frozen,Donation,2024-05-01
+bb60201e-948a-4928-9249-cf439f8cd3d4,Omnivore,5,Grains,8.14,3.96,4.18,Avoidable,Pantry,Donation,2024-08-26
+4eb5e780-4a81-4635-a284-c69648629667,Vegan,5,Vegetables,8.92,6.65,2.27,Avoidable,Pantry,Trash,2024-01-25
+36af3d55-823b-4123-b18c-acded948a14b,Vegetarian,5,Fruits,15.68,2.76,12.93,Avoidable,Pantry,Donation,2024-03-24
+fb79845e-3a8e-45af-8f56-d3f8ab5d9089,Vegetarian,4,Dairy,16.76,3.81,12.95,Avoidable,Pantry,Donation,2024-02-13
+93fef5af-8b3d-46c7-9bef-155bebe22405,Omnivore,1,Beverages,1.32,0.87,0.45,Avoidable,Frozen,Donation,2024-05-05
+71f79ab5-babb-4c2a-a0a3-820d28ad17cc,Vegetarian,5,Beverages,9.17,2.39,6.78,Avoidable,Pantry,Donation,2024-06-13
+a1a04b66-4dee-41e7-9859-d881f2e4d9e1,Pescatarian,6,Vegetables,5.01,2.31,2.69,Avoidable,Pantry,Trash,2024-08-09
+2fdfeaff-5b10-46e7-b5fb-e12c66e29168,Pescatarian,3,Dairy,17.78,5.01,12.78,Avoidable,Refrigerated,Feed Animals,2024-05-10
+d6ad9ac6-d2f5-4067-b089-911df67d4571,Vegan,1,Grains,14.6,11.66,2.94,Avoidable,Pantry,Donation,2024-02-08
+8a07b33b-94a9-4a21-ba38-ae378eab4c6e,Vegetarian,3,Vegetables,12.04,0.84,11.2,Avoidable,Frozen,Donation,2024-02-14
+847c4943-002a-4e3f-90ff-230ffeb0c247,Vegetarian,2,Beverages,13.43,11.5,1.93,Avoidable,Frozen,Donation,2024-03-06
+22c13e42-8f3e-448a-9f44-fd2a3b43b102,Vegetarian,1,Beverages,13.85,8.09,5.75,Avoidable,Pantry,Compost,2024-08-26
+e5ae422f-a64b-4699-9ab7-0fe7e7c17e82,Omnivore,6,Vegetables,19.28,13.93,5.35,Avoidable,Refrigerated,Trash,2024-05-24
+a8cc2f95-e4be-4a1b-9d79-8c18fd83361e,Vegan,5,Fruits,9.43,7.23,2.21,Avoidable,Refrigerated,Feed Animals,2024-09-21
+9d59b4ea-72f9-4fa8-8dc4-40342682c496,Pescatarian,4,Dairy,6.52,4.78,1.74,Avoidable,Refrigerated,Feed Animals,2024-01-14
+6c345e00-4e06-4628-968d-0d1cdf67fbfb,Omnivore,6,Meat,17.07,10.66,6.41,Avoidable,Frozen,Compost,2024-08-14
+acbffc6d-1495-4ae0-83cd-0b8a9d435ac9,Omnivore,1,Beverages,6.89,5.12,1.77,Avoidable,Pantry,Donation,2024-05-15
+8c5ef278-c8ea-4ceb-a089-d070b497a3cf,Omnivore,3,Vegetables,5.14,1.24,3.91,Avoidable,Refrigerated,Donation,2024-03-27
+b5cada98-b953-4223-ab87-c83e4225bc94,Pescatarian,2,Fruits,5.05,4.28,0.77,Avoidable,Pantry,Feed Animals,2024-06-14
+036c5aed-07e5-43e3-8d02-27562100a564,Pescatarian,2,Beverages,16.28,6.22,10.06,Avoidable,Refrigerated,Compost,2024-07-23
+4d4a2d38-5ef9-43c4-9ec3-5d61a59fc7c3,Vegan,3,Dairy,2.36,0.95,1.41,Avoidable,Refrigerated,Feed Animals,2024-01-23
+df06560e-bb27-478c-908a-7b511b311119,Pescatarian,4,Dairy,2.11,1.39,0.73,Avoidable,Pantry,Trash,2024-03-18
+a70f7b7d-ecd0-48ac-94d1-b5dbb85b1da9,Vegan,3,Fruits,3.21,1.29,1.91,Avoidable,Frozen,Feed Animals,2024-08-05
+d1a21e91-cc4e-4585-aed7-0185ea51689a,Omnivore,1,Beverages,16.11,7.26,8.85,Avoidable,Frozen,Donation,2024-02-03
+b33c2708-a2f1-49cb-a00b-dbbf32039c13,Vegetarian,4,Dairy,2.84,2.38,0.46,Avoidable,Refrigerated,Donation,2024-02-27
+212e8549-da6e-4ce4-8232-9a78d64b0a7f,Vegetarian,5,Dairy,13.26,4.58,8.68,Avoidable,Pantry,Donation,2024-05-25
+c272976d-85f2-4890-83f7-3e65015bc283,Omnivore,2,Snacks,16.85,11.33,5.52,Avoidable,Frozen,Compost,2024-03-20
+f49c77e5-bdbd-40c9-9385-87cecf3922ca,Vegan,4,Dairy,7.47,6.88,0.59,Avoidable,Refrigerated,Feed Animals,2024-07-30
+c16607fe-e482-424d-b961-84d2b5cfc3e3,Omnivore,1,Grains,4.23,0.63,3.6,Avoidable,Refrigerated,Compost,2024-06-21
+2d5d44ee-f63a-492b-8627-04fb41df6a3c,Vegan,5,Dairy,17.91,1.97,15.94,Avoidable,Refrigerated,Trash,2024-07-31
+00a99d44-0be5-41ae-9e2a-1c71b4e46f85,Pescatarian,5,Grains,17.83,2.62,15.21,Avoidable,Pantry,Compost,2024-02-07
+1242b515-2767-474b-9ca2-bd8e274412bf,Vegan,1,Vegetables,1.94,1.75,0.19,Avoidable,Frozen,Feed Animals,2024-05-05
+0cef125d-8741-486d-bd18-958eff9f3dae,Pescatarian,2,Beverages,4.94,1.53,3.4,Avoidable,Refrigerated,Trash,2024-01-26
+b697017c-af3e-4bf6-ba4f-dc4abbe98fc4,Vegan,5,Grains,4.17,3.69,0.49,Avoidable,Pantry,Compost,2024-08-07
+9d5c8e3f-ba04-42ab-951b-c412629dd0ee,Vegan,6,Grains,7.19,5.45,1.74,Avoidable,Refrigerated,Donation,2024-04-27
+ded2ff82-e5ed-48d0-94ed-e1141add98a6,Omnivore,4,Beverages,3.85,2.82,1.03,Avoidable,Pantry,Feed Animals,2024-04-01
+8ad7ce4f-e6fa-4da8-b129-43256b36017a,Vegetarian,5,Grains,18.41,12.76,5.64,Avoidable,Refrigerated,Donation,2024-06-26
+aa002a6d-685a-4ff6-aacd-9f228771a749,Vegan,5,Dairy,17.5,17.43,0.07,Avoidable,Pantry,Feed Animals,2024-08-06
+18ab0e92-6c0c-47f9-aeda-464256c11a8c,Pescatarian,3,Grains,13.68,8.5,5.18,Avoidable,Refrigerated,Compost,2024-05-25
+b5312632-0dc5-4d26-8f87-008eb8dbb2b3,Vegetarian,3,Snacks,1.32,0.99,0.33,Avoidable,Refrigerated,Donation,2024-03-05
+b0dc2958-9309-494e-90a8-939af6801087,Omnivore,3,Vegetables,5.11,4.19,0.93,Avoidable,Pantry,Feed Animals,2024-05-05
+31484270-c358-4ea4-86e8-33d69548525c,Pescatarian,1,Dairy,4.04,3.91,0.14,Avoidable,Refrigerated,Feed Animals,2024-01-10
+b27b4a83-5da1-4602-82eb-dfeeab238c0b,Vegan,2,Grains,15.23,5.88,9.34,Avoidable,Frozen,Feed Animals,2024-03-06
+194f7152-e9d6-4313-8a94-027986d8a164,Vegetarian,4,Beverages,2.08,1.64,0.44,Avoidable,Frozen,Donation,2024-03-31
+fe582949-a7f5-46f7-9966-694a377c9cb0,Vegetarian,2,Beverages,12.7,1.45,11.25,Avoidable,Frozen,Donation,2024-07-06
+d91db688-4b6d-45d4-a72e-e1413dba718d,Vegan,5,Meat,15.17,13.35,1.81,Avoidable,Frozen,Donation,2024-09-24
+c9326786-8e89-4194-bea3-d8979efe797c,Vegetarian,4,Vegetables,13.05,9.64,3.42,Avoidable,Refrigerated,Donation,2024-09-13
+e47655ed-2513-475c-bbe8-5d1e080e3ff3,Vegetarian,6,Dairy,3.98,3.06,0.93,Avoidable,Frozen,Trash,2024-06-09
+b86f034e-d9e6-4b03-b497-24eb8d20d6ca,Pescatarian,2,Snacks,1.72,1.38,0.35,Avoidable,Pantry,Compost,2024-07-28
+3d08c748-dd08-4d94-aa72-ca56b980e744,Vegetarian,6,Vegetables,14.58,8.6,5.98,Avoidable,Refrigerated,Compost,2024-05-18
+d8d18413-8447-4df1-a1f5-d1021b262f81,Omnivore,6,Snacks,6.53,5.42,1.12,Avoidable,Pantry,Trash,2024-09-13
+b0f27375-60e7-46b5-bd90-f6c745aea51d,Pescatarian,3,Grains,7.92,6.62,1.3,Avoidable,Frozen,Feed Animals,2024-08-27
+445a1376-6fcd-47ba-b9fb-40831e71b595,Pescatarian,3,Meat,14.77,14.69,0.08,Avoidable,Frozen,Feed Animals,2024-07-25
+52462051-1dc8-4156-b15f-cbe5d8dc4fa9,Vegan,4,Dairy,8.2,3.68,4.52,Avoidable,Frozen,Donation,2024-08-03
+68f6b3e0-2dde-4704-a29c-b26365d61622,Omnivore,5,Snacks,17.05,15.84,1.21,Avoidable,Refrigerated,Donation,2024-03-23
+97310ff5-71c1-415e-a514-5520ca0c6c7f,Omnivore,5,Snacks,7.14,6.3,0.85,Avoidable,Refrigerated,Donation,2024-05-11
+23a5a095-f7ac-48d1-af01-7213a354ae20,Omnivore,1,Vegetables,10.56,9.45,1.1,Avoidable,Refrigerated,Compost,2024-03-04
+1053e8e6-a29d-4460-bf29-c388b427a114,Pescatarian,1,Beverages,12.34,12.12,0.23,Avoidable,Frozen,Trash,2024-04-06
+94e8a327-74c4-4aff-942c-aabaec3af6fd,Vegan,3,Grains,19.47,1.29,18.18,Avoidable,Pantry,Feed Animals,2024-01-23
+427ada1b-8e0e-4e30-9800-96a76a2376dd,Pescatarian,3,Dairy,12.88,6.47,6.41,Avoidable,Refrigerated,Compost,2024-08-22
+d84825b0-6e50-4d19-b167-ae7a80cb0410,Pescatarian,5,Beverages,14.61,9.56,5.06,Avoidable,Refrigerated,Feed Animals,2024-05-28
+971f6a19-a595-44a0-a9ee-135b1c609ac4,Vegetarian,6,Vegetables,10.86,1.25,9.61,Avoidable,Pantry,Feed Animals,2024-05-30
+19863522-81d9-41b9-a162-5afdb34ad7f3,Vegetarian,5,Grains,13.76,5.44,8.32,Avoidable,Pantry,Donation,2024-05-18
+8b8a5910-fccb-4c21-a826-6314975b99d8,Vegetarian,6,Meat,14.82,9.78,5.03,Avoidable,Pantry,Donation,2024-04-23
+6f9b7d8f-661d-4c5f-b2ee-eb4048d0095d,Vegetarian,1,Beverages,7.9,0.56,7.34,Avoidable,Pantry,Feed Animals,2024-06-23
+28337bef-4fb3-434f-84e2-8324b9e484ba,Vegetarian,2,Grains,3.25,3.01,0.25,Avoidable,Frozen,Compost,2024-06-22
+218e4dde-b1da-40bc-af91-4711d9dfe089,Vegan,2,Grains,19.83,19.0,0.83,Avoidable,Pantry,Donation,2024-07-24
+f61c973f-725b-4a21-806d-94f0fd39c439,Omnivore,1,Fruits,11.86,3.15,8.71,Avoidable,Refrigerated,Compost,2024-08-13
+6f3f7a74-b573-4e47-953a-8ee59849c1c1,Vegan,3,Beverages,7.64,2.44,5.2,Avoidable,Refrigerated,Feed Animals,2024-05-02
+093a339e-6ede-40ff-9bd0-67d2458f6afd,Omnivore,1,Beverages,13.01,11.08,1.93,Avoidable,Frozen,Compost,2024-02-04
+513584d8-a34d-4544-b3c8-168522dee206,Pescatarian,4,Vegetables,14.29,7.83,6.46,Avoidable,Frozen,Donation,2024-04-05
+64b79a52-e9f0-4c7a-864a-9abb2d43ab30,Vegetarian,6,Beverages,2.76,1.85,0.91,Avoidable,Frozen,Trash,2024-03-13
+294f8152-28b9-43de-8de5-14b6f72a89d9,Vegan,5,Meat,4.26,2.6,1.66,Avoidable,Frozen,Feed Animals,2024-06-23
+e3baab83-6712-4a09-b54d-196e582c629b,Vegetarian,2,Dairy,8.76,6.28,2.48,Avoidable,Refrigerated,Compost,2024-07-22
+9cada27a-ea16-4f75-9f28-d561f897fc44,Vegetarian,1,Dairy,19.9,18.37,1.53,Avoidable,Pantry,Compost,2024-02-13
+7a355daa-a885-4223-99b1-b7874611a265,Vegetarian,5,Meat,14.34,10.83,3.51,Avoidable,Pantry,Trash,2024-06-07
+998e93eb-24b1-4cf5-92be-8d46388721c7,Omnivore,5,Grains,12.59,5.3,7.28,Avoidable,Frozen,Feed Animals,2024-08-01
+17485218-1024-439e-a9c8-3e511605593d,Vegan,2,Meat,8.36,3.52,4.84,Avoidable,Pantry,Compost,2024-09-21
+5b4ebb9e-2f02-49a0-b5a9-ed1cb2182516,Vegetarian,6,Snacks,2.72,2.41,0.3,Avoidable,Frozen,Donation,2024-03-08
+10d2e03b-f04d-4899-8af2-e7327741c58f,Vegetarian,6,Vegetables,1.08,1.01,0.06,Avoidable,Refrigerated,Trash,2024-02-14
+e415be71-28a6-4093-a289-a83cd59dd71a,Vegetarian,4,Fruits,13.79,5.62,8.17,Avoidable,Frozen,Trash,2024-06-09
+f19883f9-bb8c-4a65-b27c-fabdb68b2c84,Vegetarian,2,Snacks,2.79,0.51,2.27,Avoidable,Frozen,Trash,2024-07-02
+4a2bec2b-b284-44dc-aef9-376a399d278d,Vegetarian,3,Beverages,3.15,1.81,1.34,Avoidable,Pantry,Compost,2024-08-17
+75a99455-69fc-4d18-ac9d-ce20c32b44d4,Omnivore,5,Snacks,9.64,7.85,1.78,Avoidable,Refrigerated,Feed Animals,2024-03-09
+793b419f-659c-4d8a-b558-a5a5eb2325bc,Pescatarian,3,Meat,12.67,12.08,0.58,Avoidable,Frozen,Feed Animals,2024-02-06
+69047d87-100b-425a-a028-bd1063165172,Vegan,3,Snacks,15.51,8.68,6.83,Avoidable,Pantry,Feed Animals,2024-01-19
+f06e519e-b04e-45b5-a935-6478a9bd9c37,Vegetarian,1,Vegetables,15.02,10.2,4.82,Avoidable,Frozen,Donation,2024-04-18
+b5bee7fa-0b01-4e37-81ef-e9341a399068,Omnivore,4,Meat,3.2,2.38,0.82,Avoidable,Pantry,Donation,2024-05-13
+6ac6fba1-32f7-4ba1-be3c-f7c579689d05,Vegan,2,Grains,16.75,9.74,7.01,Avoidable,Frozen,Trash,2024-01-08
+969693fc-179b-4e96-bead-5b5fd9e15d92,Vegetarian,2,Dairy,16.56,8.48,8.07,Avoidable,Frozen,Donation,2024-08-31
+4bb038db-713f-427d-a73e-993a6bb84394,Pescatarian,5,Snacks,14.54,4.79,9.75,Avoidable,Refrigerated,Compost,2024-03-22
+7cf5c1ee-5100-43cb-8236-08e57b92a306,Vegan,4,Snacks,14.85,11.84,3.0,Avoidable,Pantry,Donation,2024-08-19
+2749a534-2731-448e-8604-74d520cf6748,Vegetarian,5,Grains,17.89,7.7,10.19,Avoidable,Refrigerated,Compost,2024-06-13
+54aa36d0-322a-4389-a81c-e1c735d8d5a9,Pescatarian,5,Beverages,7.22,3.11,4.11,Avoidable,Refrigerated,Donation,2024-03-04
+72fda6cf-dff1-4c8f-97f0-42e866609686,Pescatarian,5,Snacks,15.71,1.67,14.05,Avoidable,Refrigerated,Compost,2024-03-24
+903a2e15-0af6-45f5-a700-0a075ff63089,Omnivore,2,Snacks,6.66,2.77,3.9,Avoidable,Pantry,Donation,2024-02-14
+de6faf00-b91e-46d5-b7e0-6e9d740137aa,Omnivore,3,Meat,11.68,1.02,10.66,Avoidable,Frozen,Compost,2024-02-18
+9a1ddc45-c7bc-47ac-a423-6885c8cb71f1,Vegan,3,Snacks,16.17,11.81,4.36,Avoidable,Pantry,Donation,2024-06-28
+f2a6fb9e-30c3-4109-8b8b-366a7b9d7120,Vegan,2,Beverages,3.03,2.89,0.14,Avoidable,Refrigerated,Feed Animals,2024-09-12
+7fd3fab7-f78c-475a-8efb-f898092a8fa3,Vegetarian,4,Beverages,4.31,3.14,1.17,Avoidable,Frozen,Donation,2024-05-09
+141b16e4-e268-4bb0-942f-9583bb0a5286,Vegan,5,Beverages,6.48,4.48,2.0,Avoidable,Pantry,Compost,2024-09-02
+4dbf2bbf-f264-4bde-be1f-a229ee46f6fd,Pescatarian,6,Grains,3.22,1.26,1.96,Avoidable,Pantry,Trash,2024-02-08
+a0071dbd-ba72-4b98-a8fd-8778084f803d,Omnivore,3,Snacks,7.61,5.59,2.02,Avoidable,Frozen,Trash,2024-08-01
+77270c6b-534d-4f9f-b069-092d0d65e501,Pescatarian,1,Dairy,6.32,6.0,0.32,Avoidable,Refrigerated,Donation,2024-02-23
+c081b668-4bda-44e1-99da-4170b5abc837,Pescatarian,2,Meat,6.68,4.31,2.38,Avoidable,Pantry,Compost,2024-07-27
+2c9bcae6-f3f8-4059-992e-57f66b48ece2,Pescatarian,2,Meat,14.37,4.77,9.6,Avoidable,Pantry,Trash,2024-08-11
+9fe9b238-5a0a-478f-9bf7-6470d7f9e34b,Omnivore,2,Beverages,1.96,1.78,0.18,Avoidable,Refrigerated,Compost,2024-04-27
+09a37ff6-4703-4819-bcbd-9da8bada16c6,Vegetarian,3,Meat,19.37,0.69,18.68,Avoidable,Pantry,Compost,2024-09-01
+dd077c8d-cde9-4a0e-b8e3-71ab5d87fcc6,Pescatarian,2,Snacks,8.12,6.49,1.64,Avoidable,Frozen,Donation,2024-07-29
+30e259a4-50d4-442e-9083-a72dffa87091,Omnivore,6,Vegetables,5.46,0.61,4.86,Avoidable,Refrigerated,Donation,2024-02-16
+598c605b-80c6-4b37-96c3-d80ede9eeae3,Omnivore,6,Beverages,11.2,4.67,6.52,Avoidable,Refrigerated,Compost,2024-08-30
+4bfee025-207a-4ebe-a845-ec44ae4efd07,Vegetarian,4,Meat,14.32,4.02,10.31,Avoidable,Frozen,Feed Animals,2024-06-04
+f73a494e-52c0-4f17-8330-0bd1851378b0,Vegan,4,Meat,10.09,8.75,1.34,Avoidable,Frozen,Donation,2024-04-24
+da4a5baf-b775-4fee-92b3-13ebf1a9c99d,Vegan,6,Fruits,1.15,0.72,0.43,Avoidable,Refrigerated,Donation,2024-04-04
+d41042f1-5ea7-430f-ab1b-954579dab54e,Omnivore,3,Meat,7.97,7.44,0.53,Avoidable,Refrigerated,Feed Animals,2024-07-16
+273c2557-045c-4124-88b5-ea11bd346ad3,Vegan,4,Meat,5.8,3.97,1.83,Avoidable,Pantry,Trash,2024-06-24
+9960095a-a39d-4c41-b66a-35f6c1a7d973,Vegetarian,5,Beverages,17.35,0.87,16.48,Avoidable,Refrigerated,Trash,2024-04-14
+b8e1fb3b-21c5-472d-a9b7-227dd5254ce4,Vegan,2,Meat,17.71,13.42,4.29,Avoidable,Frozen,Feed Animals,2024-09-16
+caf4fabe-4fac-4041-9b00-4d382762c1a4,Vegan,1,Beverages,9.37,2.03,7.34,Avoidable,Refrigerated,Trash,2024-04-08
+983dab48-4914-4b55-a80f-8c113eca9d46,Vegetarian,5,Beverages,15.07,11.55,3.52,Avoidable,Frozen,Trash,2024-07-26
+e00fe974-618c-4de3-a442-6a86ea961ac4,Vegetarian,4,Meat,7.12,5.65,1.47,Avoidable,Refrigerated,Donation,2024-01-03
+34d7a39e-1d67-4f11-9237-18c23330dc2b,Vegetarian,6,Dairy,19.57,16.78,2.79,Avoidable,Pantry,Feed Animals,2024-08-11
+2fc7c39e-101e-48a3-824d-0accee4667cd,Vegan,3,Dairy,9.72,5.36,4.37,Avoidable,Frozen,Trash,2024-03-19
+3b92439e-2ce5-4c64-bd2a-c1d64a6c880a,Pescatarian,4,Grains,11.06,7.13,3.93,Avoidable,Refrigerated,Donation,2024-05-17
+2af09b22-8001-4a30-b8e9-c468f7eadae7,Vegan,1,Fruits,14.4,3.38,11.02,Avoidable,Frozen,Donation,2024-02-13
+6aee8d10-7ecc-4401-ac11-9a11b064b62f,Vegetarian,6,Beverages,9.04,6.68,2.36,Avoidable,Pantry,Trash,2024-07-03
+c88bfbb4-4333-404a-a58b-f3b28b82fe54,Vegan,2,Vegetables,13.5,12.19,1.3,Avoidable,Frozen,Compost,2024-07-31
+6b36c4ee-d47e-4f33-a059-85adf548d0be,Vegetarian,6,Snacks,7.58,1.2,6.38,Avoidable,Pantry,Donation,2024-05-29
+5a758f0b-d2d2-4fe9-8202-3bc9b0ae2040,Vegetarian,5,Beverages,13.77,11.24,2.53,Avoidable,Refrigerated,Compost,2024-07-21
+7afd22cd-b017-419e-894f-586e3eb84fbc,Vegetarian,2,Vegetables,2.2,1.44,0.76,Avoidable,Pantry,Compost,2024-01-22
+4072a225-5863-400f-afd4-f608b4de0666,Vegetarian,3,Vegetables,14.91,13.73,1.18,Avoidable,Pantry,Compost,2024-07-17
+c075dd73-208e-4e38-8897-23759738ab10,Omnivore,5,Vegetables,17.91,10.67,7.24,Avoidable,Refrigerated,Compost,2024-02-07
+63c31bcf-0538-4c64-8f03-744597854a79,Vegan,1,Beverages,5.69,3.79,1.9,Avoidable,Frozen,Trash,2024-09-16
+1739d246-31a2-4def-b352-588e2bd7ef0b,Pescatarian,6,Snacks,9.09,4.21,4.88,Avoidable,Refrigerated,Feed Animals,2024-02-24
+6a92d2d8-4ecf-4956-85b9-d5977e8cc8b2,Pescatarian,3,Grains,1.63,1.1,0.53,Avoidable,Pantry,Trash,2024-07-05
+158d6509-c722-47c1-a046-48d23ba91bb4,Vegan,6,Beverages,7.61,6.83,0.78,Avoidable,Pantry,Donation,2024-09-01
+63831c42-718f-4f2e-8d7c-aff8891d5bab,Vegetarian,5,Grains,19.68,9.64,10.04,Avoidable,Pantry,Donation,2024-03-10
+bda7a15c-09a1-404e-9218-ef2ab3d7ffb6,Vegan,1,Grains,8.74,2.8,5.94,Avoidable,Frozen,Donation,2024-07-11
+a991d701-6b97-45b3-849f-91d14c1f3e25,Omnivore,2,Beverages,3.25,1.71,1.54,Avoidable,Refrigerated,Feed Animals,2024-02-08
+e92f7ba8-a721-4883-9c4d-3508f8006879,Pescatarian,4,Meat,2.64,1.66,0.98,Avoidable,Refrigerated,Feed Animals,2024-06-19
+f7a0b432-ce35-4985-b74d-2a15222a53ba,Omnivore,2,Grains,15.02,0.9,14.12,Avoidable,Refrigerated,Donation,2024-04-08
+c5749c1e-390e-46d7-81d8-f9cab89c60d1,Vegan,2,Fruits,14.7,14.62,0.07,Avoidable,Pantry,Trash,2024-04-22
+188dee46-1a62-488c-a2aa-a440a98febd6,Omnivore,5,Meat,18.7,2.11,16.59,Avoidable,Refrigerated,Donation,2024-09-01
+d85458d8-20db-4480-99f2-8d79e4a36dab,Omnivore,2,Beverages,1.08,0.55,0.54,Avoidable,Pantry,Compost,2024-04-07
+fd603678-bbd6-4040-a7b5-c7263f2887d6,Pescatarian,2,Fruits,10.33,9.74,0.59,Avoidable,Refrigerated,Compost,2024-05-03
+eed64d72-d05d-4618-b1c1-5e10b85761ed,Vegetarian,1,Dairy,8.11,6.95,1.16,Avoidable,Pantry,Donation,2024-01-07
+dce96619-89bf-4fed-8851-d355da29d3b3,Vegan,3,Vegetables,12.05,9.82,2.23,Avoidable,Refrigerated,Trash,2024-04-08
+40d8301d-55cd-4b2f-86ec-1c93136b6ff0,Vegetarian,4,Beverages,11.51,5.01,6.51,Avoidable,Refrigerated,Donation,2024-03-11
+6c7ee30c-175a-4808-a876-1e1ee4217ab6,Omnivore,6,Snacks,14.16,4.3,9.86,Avoidable,Frozen,Compost,2024-05-04
+8414d77e-bd31-4c31-a7ad-4d0c1610af14,Vegetarian,6,Snacks,4.08,2.87,1.21,Avoidable,Pantry,Trash,2024-09-03
+b798e692-02dc-4b1b-81d1-8f48731b6ccd,Vegan,5,Dairy,5.58,2.7,2.88,Avoidable,Frozen,Feed Animals,2024-08-09
+aa05211e-0248-429e-93c5-38875f66486c,Pescatarian,3,Dairy,15.16,5.36,9.81,Avoidable,Refrigerated,Trash,2024-07-14
+237bc865-8227-41df-978a-fb7984a36bcc,Omnivore,6,Beverages,2.61,1.32,1.29,Avoidable,Pantry,Trash,2024-09-19
+0e5573e4-d155-4901-a997-92bdc84cbaca,Pescatarian,5,Meat,16.9,7.26,9.63,Avoidable,Pantry,Donation,2024-07-22
+16d628bf-2d79-448f-91bb-2bf151687000,Omnivore,2,Vegetables,18.64,13.36,5.28,Avoidable,Refrigerated,Donation,2024-09-16
+56d6d2a2-7085-438f-a092-fc7706b2e0e4,Vegan,2,Vegetables,2.85,2.62,0.23,Avoidable,Pantry,Donation,2024-07-10
+17977bcb-8ace-46c9-8fdf-5b707342d516,Vegan,5,Grains,11.8,7.05,4.76,Avoidable,Refrigerated,Donation,2024-01-01
+4499b970-72a6-4b8e-bf56-a19e0b640b92,Vegan,6,Grains,14.06,7.62,6.44,Avoidable,Refrigerated,Feed Animals,2024-05-24
+0c1feed1-f7fb-4d27-932a-9efa691715b1,Omnivore,2,Meat,19.36,12.54,6.82,Avoidable,Frozen,Donation,2024-06-24
+7365ccd0-b759-4a21-95ec-0a243ab61d90,Vegan,1,Beverages,17.23,7.26,9.97,Avoidable,Refrigerated,Donation,2024-09-22
+090a6cfd-81a5-4471-93bc-7e5624242636,Vegan,2,Snacks,1.45,0.84,0.61,Avoidable,Refrigerated,Feed Animals,2024-02-07
+24d0397f-dcea-45f0-977f-5868c75bcca2,Omnivore,1,Snacks,12.54,7.29,5.25,Avoidable,Frozen,Compost,2024-06-26
+0e8ecf73-35b9-4abe-943a-6559546e1998,Omnivore,4,Snacks,5.88,4.14,1.75,Avoidable,Refrigerated,Donation,2024-08-05
+030bdfe3-dc48-44bb-b592-69867450ed92,Omnivore,3,Beverages,7.99,2.6,5.4,Avoidable,Pantry,Donation,2024-04-20
+61685ca1-c2df-4870-97bd-4226aac839b3,Vegan,6,Grains,9.75,2.51,7.24,Avoidable,Refrigerated,Donation,2024-07-10
+d460d739-095e-4e1b-8608-61454a24eba2,Pescatarian,4,Snacks,10.6,0.54,10.06,Avoidable,Refrigerated,Feed Animals,2024-01-29
+f6d4d237-0ff1-4642-87e8-dec9f895f037,Omnivore,1,Fruits,13.08,1.21,11.87,Avoidable,Pantry,Trash,2024-05-17
+1e59aa4d-5ad6-4bbe-b0a6-fcfb2edb0045,Pescatarian,4,Meat,1.2,0.6,0.6,Avoidable,Refrigerated,Trash,2024-01-28
+91ebbf4b-18a8-4a2e-adce-7ec1f6e01a31,Vegan,6,Snacks,3.89,0.65,3.24,Avoidable,Pantry,Donation,2024-05-29
+cb53244b-749c-4078-898f-cce9a7d499e2,Vegetarian,1,Dairy,19.56,16.49,3.07,Avoidable,Frozen,Feed Animals,2024-06-10
+3c01b3ee-95b1-49cd-a198-a6e0af63122e,Vegan,4,Fruits,7.27,5.31,1.95,Avoidable,Refrigerated,Feed Animals,2024-09-05
+b295b7f6-b329-421e-a2cd-fae66db350ca,Vegan,4,Fruits,14.52,1.42,13.11,Avoidable,Pantry,Feed Animals,2024-01-24
+31d08b7e-73f1-489d-b792-624cc5710df9,Omnivore,1,Beverages,3.9,0.55,3.35,Avoidable,Pantry,Compost,2024-04-06
+d8ad4c22-5d3b-4e85-91d7-6fd85b68c243,Omnivore,5,Grains,6.76,3.59,3.18,Avoidable,Frozen,Donation,2024-03-27
+0edd194c-9e14-4e2d-8e6e-6bdd91507541,Omnivore,5,Dairy,2.87,1.33,1.54,Avoidable,Refrigerated,Compost,2024-03-26
+66810ab6-1d9e-4064-8fbf-3603d1102f75,Vegan,3,Meat,8.97,3.25,5.72,Avoidable,Refrigerated,Compost,2024-09-21
+f8de2e85-f51b-40aa-80dd-b799bc93b8bc,Vegan,2,Beverages,17.68,1.35,16.32,Avoidable,Pantry,Compost,2024-01-27
+52c1229d-8ddc-472b-a701-102d1af693f8,Omnivore,4,Grains,10.29,3.83,6.45,Avoidable,Frozen,Feed Animals,2024-07-20
+077683d8-ee55-41ee-ac25-dab0b3897ab1,Pescatarian,5,Meat,1.97,0.55,1.42,Avoidable,Refrigerated,Donation,2024-02-13
+2f69023e-75b0-4d35-91b9-35327848679b,Omnivore,2,Vegetables,9.59,3.78,5.81,Avoidable,Refrigerated,Compost,2024-03-22
+4f92877f-9245-4379-a526-a9f120e84d2d,Vegan,5,Dairy,12.72,6.27,6.44,Avoidable,Pantry,Compost,2024-05-10
+3affd56a-ea90-4f0c-85bc-a3d2d7469c05,Pescatarian,2,Snacks,9.69,9.15,0.53,Avoidable,Refrigerated,Trash,2024-08-11
+272a0deb-5deb-4cf5-a0d7-c7b0491c0937,Vegan,2,Vegetables,2.33,1.23,1.11,Avoidable,Frozen,Trash,2024-05-06
+60a9bc1b-6f56-4ed5-a80b-f2c86b7953f9,Vegetarian,4,Grains,15.42,0.84,14.58,Avoidable,Pantry,Feed Animals,2024-05-04
+7d9fe23a-83c6-4f68-960a-d9dd36d7dc72,Vegan,2,Beverages,15.08,5.5,9.57,Avoidable,Frozen,Trash,2024-03-02
+4d5b0d23-f8c4-415c-a3c5-3827e635927d,Vegan,5,Snacks,8.16,2.96,5.21,Avoidable,Pantry,Feed Animals,2024-08-30
+0cffd88d-7c6e-4551-8707-9561eca27908,Pescatarian,3,Meat,2.28,1.89,0.39,Avoidable,Frozen,Feed Animals,2024-06-12
+ca7dd4f6-18b7-4909-be96-7eab341d3fea,Omnivore,5,Fruits,12.42,1.35,11.07,Avoidable,Frozen,Donation,2024-08-12
+e1968a36-1e24-421c-aa3b-f214183bc18b,Omnivore,1,Meat,8.95,3.26,5.69,Avoidable,Frozen,Compost,2024-06-20
+c371fe07-0179-4ceb-83e9-65dac2b50ad6,Vegan,3,Snacks,14.58,2.99,11.59,Avoidable,Pantry,Donation,2024-03-06
+5ded3d54-e1f7-4f44-8044-b95d531f6006,Pescatarian,6,Dairy,8.42,4.54,3.88,Avoidable,Refrigerated,Feed Animals,2024-03-28
+6f634986-aa8a-4f90-af3d-c8697c14e7f3,Omnivore,4,Fruits,8.74,4.18,4.56,Avoidable,Refrigerated,Compost,2024-04-10
+67466cef-f296-406e-ae28-9f9c4b408ca3,Vegetarian,5,Beverages,8.46,1.96,6.5,Avoidable,Pantry,Feed Animals,2024-04-20
+831726e6-27be-44dd-a679-2ac14076a67d,Omnivore,1,Vegetables,4.22,0.77,3.46,Avoidable,Frozen,Trash,2024-07-15
+a7c36976-3b18-4833-9038-26a42fc52e4c,Pescatarian,5,Grains,19.07,12.36,6.72,Avoidable,Refrigerated,Compost,2024-09-07
+ed343790-a2b5-4b52-bb76-baff25504662,Vegan,4,Fruits,13.47,9.78,3.7,Avoidable,Refrigerated,Compost,2024-05-28
+72c350ad-207f-4f73-b1b6-c7dc0f35de57,Vegan,4,Fruits,12.21,1.22,11.0,Avoidable,Refrigerated,Compost,2024-03-06
+b7a985fc-105b-4c2b-91ae-14dd67e00347,Omnivore,1,Fruits,1.9,0.7,1.2,Avoidable,Frozen,Donation,2024-08-19
+6d8d3956-e45a-4691-b38c-fccb22ced9c9,Vegan,3,Snacks,19.67,2.55,17.12,Avoidable,Refrigerated,Feed Animals,2024-03-17
+b834accd-a813-4b82-859e-cd4016961031,Omnivore,5,Fruits,14.51,4.74,9.77,Avoidable,Refrigerated,Feed Animals,2024-01-22
+81ad47b8-227f-4cc2-bfc8-f0ebc3cb3057,Vegan,1,Fruits,10.52,6.62,3.9,Avoidable,Frozen,Donation,2024-09-08
+d2e0dee6-8e4f-4153-9841-2b1128328768,Omnivore,5,Meat,12.27,3.64,8.64,Avoidable,Frozen,Feed Animals,2024-09-03
+545d3576-9349-4b3b-90bf-837d5f5f3713,Vegetarian,3,Fruits,16.68,8.85,7.83,Avoidable,Pantry,Trash,2024-04-03
+4f3a93fb-4b61-4298-9d21-cf51ee8eef77,Vegetarian,3,Beverages,7.49,1.1,6.39,Avoidable,Frozen,Donation,2024-01-21
+4b8e0a06-f8b6-4597-b712-ac26c1f8ea40,Vegetarian,1,Fruits,16.06,14.47,1.59,Avoidable,Frozen,Compost,2024-04-02
+2aa7597f-aa38-4f3d-84a5-06411e725819,Pescatarian,6,Dairy,14.78,1.06,13.72,Avoidable,Refrigerated,Trash,2024-09-13
+3999c55f-c5ca-48d4-9dbf-25a01f54384d,Vegan,1,Grains,14.66,8.47,6.19,Avoidable,Refrigerated,Donation,2024-03-17
+26c0fe0c-7faf-4c6c-a419-98ff01e629a8,Vegan,3,Vegetables,4.38,1.69,2.69,Avoidable,Pantry,Trash,2024-04-21
+c52c5e0c-d169-4b90-a8a1-3042b53b1482,Pescatarian,3,Grains,6.36,4.48,1.88,Avoidable,Refrigerated,Compost,2024-02-03
+b718263a-f4c7-43cb-8396-f1a2a0e787f2,Pescatarian,5,Snacks,4.63,3.75,0.88,Avoidable,Refrigerated,Donation,2024-08-24
+b0a1a242-527c-49f4-85fa-9990be471d76,Vegetarian,6,Grains,18.77,7.9,10.87,Avoidable,Frozen,Feed Animals,2024-02-14
+75e4910b-709b-4d60-b88b-fa0c38c0951e,Omnivore,5,Vegetables,15.46,5.08,10.38,Avoidable,Refrigerated,Compost,2024-07-12
+9dcb60b6-49fd-4c62-9dff-3f6dc5e18a37,Vegan,5,Meat,19.39,7.29,12.1,Avoidable,Frozen,Feed Animals,2024-03-29
+1d0e50a6-cf55-4f0d-b9b0-e5a258d87655,Omnivore,4,Vegetables,18.95,14.92,4.03,Avoidable,Refrigerated,Trash,2024-01-24
+9103a4cf-4804-45af-9b8b-970d83ecd143,Pescatarian,4,Meat,16.37,13.39,2.98,Avoidable,Refrigerated,Donation,2024-05-19
+ce56b062-61fa-43be-8761-c6d45606c206,Vegetarian,6,Snacks,14.57,6.22,8.35,Avoidable,Frozen,Trash,2024-09-21
+5740964d-4edc-4ebb-a85e-8c7f83aab19d,Vegan,3,Dairy,16.4,14.67,1.73,Avoidable,Pantry,Trash,2024-09-11
+6908fa1f-d65c-42e4-b156-29d50ca63d5f,Omnivore,2,Meat,5.93,0.94,4.98,Avoidable,Pantry,Feed Animals,2024-04-20
+0f444ba8-03a7-42c8-9650-24e695f6f78d,Vegetarian,5,Meat,9.73,1.03,8.7,Avoidable,Refrigerated,Compost,2024-08-04
+ce4c894c-3457-448c-a1da-49072a46847b,Vegan,3,Vegetables,14.19,11.3,2.89,Avoidable,Refrigerated,Feed Animals,2024-03-29
+3fa45f60-96d8-4696-a5c3-94654f69e169,Omnivore,3,Fruits,1.69,0.98,0.71,Avoidable,Pantry,Trash,2024-05-11
+e70fb1d6-9eb9-49de-8493-b68a00c1adbb,Pescatarian,3,Meat,4.25,4.07,0.18,Avoidable,Refrigerated,Compost,2024-09-22
+d353951f-2218-4453-a2f7-4b38bfa4aa4a,Vegan,2,Dairy,1.34,1.3,0.04,Avoidable,Pantry,Feed Animals,2024-08-19
+05d6b5a3-6b36-43db-88d7-78991426fa56,Vegetarian,5,Fruits,4.81,2.36,2.45,Avoidable,Pantry,Donation,2024-02-27
+fac335a3-fb82-4560-911f-598449c3ca9b,Pescatarian,5,Dairy,19.7,15.87,3.83,Avoidable,Pantry,Compost,2024-07-02
+0d3138af-dfdc-4e0b-8da6-a0699a56d07c,Vegan,3,Fruits,12.41,12.07,0.35,Avoidable,Refrigerated,Donation,2024-04-29
+8a2a4342-c701-4b2d-9480-d7e78cddae0b,Pescatarian,5,Beverages,10.82,9.03,1.79,Avoidable,Refrigerated,Trash,2024-06-29
+051154df-d8f1-4793-b906-541afbf31192,Vegan,4,Grains,6.72,4.61,2.11,Avoidable,Refrigerated,Feed Animals,2024-05-18
+aea0df4e-29c0-4d10-8676-caf5114e4cb6,Omnivore,6,Meat,3.92,2.97,0.95,Avoidable,Frozen,Feed Animals,2024-02-26
+e9af47ba-464b-4590-8525-086bef9fb0c2,Pescatarian,2,Grains,14.96,9.61,5.35,Avoidable,Pantry,Feed Animals,2024-02-23
+54dd545e-22c4-4cc4-b741-dd913f6362a6,Vegan,2,Beverages,3.73,1.52,2.21,Avoidable,Frozen,Trash,2024-01-15
+a9a28e12-2666-486b-801a-41221c139e46,Omnivore,1,Dairy,17.04,1.49,15.56,Avoidable,Frozen,Donation,2024-07-22
+ecd2f254-1439-498a-9e59-a4c433a343a6,Pescatarian,1,Snacks,18.34,4.83,13.51,Avoidable,Pantry,Compost,2024-02-21
+fd578ff2-c404-4f65-b7cf-594862c9c187,Pescatarian,3,Meat,6.8,1.57,5.23,Avoidable,Pantry,Trash,2024-08-27
+6d023210-cd46-4a10-808b-6985bb4bcedd,Pescatarian,3,Beverages,11.06,9.2,1.86,Avoidable,Refrigerated,Compost,2024-07-19
+b0eabd36-f4e0-4a19-b457-bfacb669e984,Vegetarian,6,Fruits,15.73,3.41,12.33,Avoidable,Frozen,Compost,2024-02-17
+04081b7b-e9b9-4404-b213-005f96bc0f05,Vegan,6,Beverages,14.05,2.49,11.57,Avoidable,Refrigerated,Feed Animals,2024-04-19
+ed02b322-6c3f-4742-9c13-0781eb743d1e,Vegan,6,Meat,18.06,3.61,14.45,Avoidable,Refrigerated,Donation,2024-01-09
+e7532bd1-d6c4-4e15-9f83-d78f1a0837a7,Vegan,6,Fruits,8.29,7.46,0.83,Avoidable,Frozen,Feed Animals,2024-05-19
+2387a9cb-8c7e-41f4-98d1-caf94105d0a8,Vegan,5,Dairy,2.89,2.42,0.47,Avoidable,Frozen,Compost,2024-01-07
+052be810-0dfb-4c87-abb0-d0aa784aded3,Vegan,6,Vegetables,2.78,2.42,0.36,Avoidable,Pantry,Trash,2024-05-20
+1ddacfa7-955e-4f38-83d8-90251e2ecb44,Pescatarian,6,Snacks,1.58,1.16,0.42,Avoidable,Pantry,Compost,2024-07-15
+af72af77-6e65-448e-9b2d-c213f017a555,Omnivore,2,Dairy,18.7,17.5,1.2,Avoidable,Pantry,Feed Animals,2024-08-14
+0e380a50-b7c8-4615-b877-2682b2dfae12,Vegan,6,Meat,15.44,9.41,6.03,Avoidable,Refrigerated,Feed Animals,2024-01-13
+b929378f-fc17-4451-9145-cdba2560f9f4,Pescatarian,2,Grains,12.74,4.32,8.42,Avoidable,Refrigerated,Compost,2024-01-15
+82b94dc8-0e9f-4733-b797-1f2822655df7,Pescatarian,5,Beverages,17.21,12.74,4.47,Avoidable,Frozen,Feed Animals,2024-09-01
+fe126b76-5949-4467-83df-4d37432e7c54,Vegetarian,2,Grains,3.64,0.91,2.73,Avoidable,Refrigerated,Donation,2024-04-12
+82848218-ca09-4f58-89f2-f214a643215c,Vegan,1,Vegetables,15.1,3.52,11.58,Avoidable,Frozen,Donation,2024-06-13
+9629f0d4-fd1b-4dbc-9700-52b1cbed80f9,Vegan,3,Grains,2.84,2.64,0.2,Avoidable,Pantry,Trash,2024-05-21
+f15c06a2-afe1-4860-9cfc-1ebe16e4b5ee,Pescatarian,5,Meat,15.4,12.01,3.39,Avoidable,Refrigerated,Feed Animals,2024-04-07
+a5781705-d5ff-42ea-ade0-4b2419ffae8d,Vegetarian,5,Vegetables,19.06,1.81,17.25,Avoidable,Refrigerated,Feed Animals,2024-07-11
+2e5b6c96-203a-473e-bc94-a1d34dc4ae2b,Pescatarian,4,Meat,7.94,3.07,4.87,Avoidable,Pantry,Compost,2024-06-16
+cb0b7fb3-9345-49de-9be9-ff72b668aeb4,Vegetarian,1,Dairy,18.59,5.79,12.8,Avoidable,Refrigerated,Feed Animals,2024-03-29
+c2ac5906-e0af-4968-a0e0-5a4f77c6494e,Pescatarian,1,Dairy,6.99,5.49,1.5,Avoidable,Frozen,Trash,2024-04-07
+4e3e48a8-8d2c-4d25-8e2e-af18d8990ad0,Vegetarian,1,Snacks,15.31,15.06,0.25,Avoidable,Refrigerated,Feed Animals,2024-06-14
+dcaa4f7e-f1fa-4965-b4ce-170f6af39c87,Vegetarian,1,Snacks,3.86,0.94,2.92,Avoidable,Frozen,Feed Animals,2024-09-06
+1cb3788a-b3b2-4d41-bd69-285069dc85c1,Omnivore,5,Meat,4.49,4.44,0.05,Avoidable,Frozen,Trash,2024-05-27
+c9d073ed-0a62-4c3f-a4da-6b052087813c,Pescatarian,5,Meat,2.58,1.57,1.01,Avoidable,Pantry,Trash,2024-09-19
+705ab24d-cd05-45cd-bb72-e6540966800a,Pescatarian,6,Meat,5.79,4.43,1.36,Avoidable,Refrigerated,Feed Animals,2024-06-11
+1e54c9c2-af81-45be-8398-c8c198a10226,Vegan,2,Vegetables,7.01,2.72,4.29,Avoidable,Pantry,Trash,2024-04-28
+32e5a6d2-7fdc-4de2-8324-a7e81fe3d1fe,Vegetarian,6,Beverages,12.76,11.83,0.93,Avoidable,Pantry,Feed Animals,2024-06-25
+c9be388e-5c6a-472e-8703-67cc5611d584,Pescatarian,2,Dairy,18.9,13.87,5.03,Avoidable,Frozen,Trash,2024-05-08
+b45149be-180b-4e7a-a57c-abbacdbbf2fc,Vegetarian,5,Snacks,19.9,14.55,5.35,Avoidable,Pantry,Feed Animals,2024-08-04
+1fa95ca4-b2ab-4f0d-9682-1f2e22902482,Omnivore,1,Dairy,15.15,4.06,11.09,Avoidable,Refrigerated,Feed Animals,2024-08-29
+ebd40c63-bacf-40ad-93ef-501a8cf72daf,Omnivore,3,Grains,8.66,1.71,6.94,Avoidable,Refrigerated,Compost,2024-05-12
+6d90d35c-4029-4d74-ab6c-62914246b9d1,Vegetarian,1,Fruits,6.83,1.44,5.39,Avoidable,Pantry,Donation,2024-01-07
+9bfbdf4b-6161-4ed6-af87-4620c83921c4,Pescatarian,1,Grains,13.89,7.55,6.34,Avoidable,Frozen,Trash,2024-01-09
+4a63c21d-1f88-4de3-a9e0-4aa7019bfefc,Omnivore,5,Vegetables,9.56,6.21,3.36,Avoidable,Pantry,Compost,2024-06-02
+f6154f45-0182-4afd-8568-108cb0a737cc,Vegetarian,4,Vegetables,17.85,6.51,11.34,Avoidable,Refrigerated,Trash,2024-08-20
+67ce2e93-c9b2-4f46-b94a-6886056f61dc,Vegetarian,5,Snacks,2.05,1.74,0.31,Avoidable,Frozen,Feed Animals,2024-03-19
+61930c9f-556d-4e33-bebc-ec74ec544657,Vegan,4,Snacks,6.0,0.63,5.37,Avoidable,Pantry,Donation,2024-05-07
+b7324564-d235-4607-bc32-3a6450c7c92a,Vegan,4,Fruits,5.45,4.82,0.64,Avoidable,Frozen,Donation,2024-08-02
+631dd970-2ed6-4674-a4be-8225a780261e,Pescatarian,1,Beverages,7.51,3.83,3.67,Avoidable,Refrigerated,Donation,2024-06-26
+2e4d1e65-6e39-4144-a3f1-4cb2f75a78aa,Vegan,1,Dairy,1.65,1.26,0.39,Avoidable,Refrigerated,Compost,2024-07-10
+ba905a89-0a5b-4f18-96c4-9082f5847779,Omnivore,3,Beverages,12.32,4.01,8.3,Avoidable,Refrigerated,Compost,2024-01-12
+c062ae42-5c3e-4604-a0bc-16088258dc79,Vegetarian,3,Vegetables,19.61,15.62,3.98,Avoidable,Refrigerated,Feed Animals,2024-04-10
+1f57785e-b04c-485a-bb24-471d00e8b781,Omnivore,6,Fruits,18.4,12.02,6.38,Avoidable,Pantry,Donation,2024-09-09
+4bb519dd-16db-49d8-b0ae-07acc181283b,Vegetarian,5,Fruits,16.83,15.78,1.04,Avoidable,Frozen,Trash,2024-05-31
+d14693bd-8b2b-4a2d-a5f3-6a51c454d6f0,Pescatarian,1,Meat,9.02,3.35,5.67,Avoidable,Pantry,Feed Animals,2024-04-02
+3c0afbc1-0edf-476d-9eee-abdc44218764,Pescatarian,3,Beverages,7.66,5.32,2.33,Avoidable,Pantry,Trash,2024-03-26
+5dbc2f5a-52e1-44ca-a87b-1aff53126a4b,Omnivore,1,Fruits,13.01,6.76,6.24,Avoidable,Pantry,Compost,2024-03-12
+36e4dcef-ba41-4518-9f9c-3e672d4b0332,Vegan,6,Beverages,10.17,4.31,5.87,Avoidable,Refrigerated,Feed Animals,2024-01-26
+90bc43f9-6f2b-424d-b4cc-dad38b4b67a5,Pescatarian,6,Fruits,3.79,3.2,0.59,Avoidable,Pantry,Compost,2024-01-06
+fe8df6e4-46a9-4477-8fe4-8e48944efa70,Omnivore,2,Fruits,6.22,5.39,0.83,Avoidable,Refrigerated,Donation,2024-06-07
+7f4b1c5e-0c17-497a-be5b-4657d94ffa86,Pescatarian,4,Meat,8.08,7.87,0.21,Avoidable,Pantry,Feed Animals,2024-03-21
+0355925e-2164-424a-bcee-957c732988bc,Vegan,1,Grains,9.0,6.8,2.2,Avoidable,Frozen,Donation,2024-07-06
+ea256e6d-bbb3-44ab-ab35-443099f8df8d,Pescatarian,5,Grains,7.62,3.09,4.54,Avoidable,Frozen,Donation,2024-07-23
+75e3dffe-f5ab-4c8e-9f55-c3844c3bf66a,Pescatarian,3,Beverages,17.9,12.59,5.32,Avoidable,Refrigerated,Trash,2024-03-20
+2b585f89-6818-4fb3-a78a-bdfb5a0a0531,Vegan,4,Fruits,13.95,4.72,9.23,Avoidable,Refrigerated,Feed Animals,2024-06-01
+d9306a5f-6bf6-4ace-85e4-95f6ac0b081f,Vegetarian,5,Dairy,12.09,3.2,8.89,Avoidable,Pantry,Donation,2024-08-29
+64578d87-c32d-49aa-a088-6888d16dd2ca,Omnivore,1,Vegetables,2.04,1.0,1.05,Avoidable,Frozen,Feed Animals,2024-07-23
+13313513-a7b2-4b35-a2f8-0a26af7a08ae,Pescatarian,1,Beverages,7.23,0.77,6.46,Avoidable,Pantry,Donation,2024-04-20
+1c9126a2-4596-42e2-ad2b-52aef3fd60a1,Omnivore,2,Grains,19.32,11.22,8.1,Avoidable,Refrigerated,Donation,2024-08-04
+a8657b03-e34c-432a-b049-1a13a3bd0d0a,Vegetarian,6,Dairy,10.99,0.98,10.01,Avoidable,Refrigerated,Feed Animals,2024-08-18
+8b20f861-5581-4358-bdf5-e90c4e601934,Vegan,5,Fruits,5.12,2.36,2.77,Avoidable,Frozen,Donation,2024-04-30
+ee40d93d-cd2b-4b35-addb-2bc8a09a170f,Omnivore,2,Snacks,19.28,2.85,16.43,Avoidable,Frozen,Compost,2024-02-29
+3665babb-97bb-49e3-830b-85a2840b9e01,Pescatarian,1,Meat,1.83,0.81,1.01,Avoidable,Frozen,Trash,2024-03-17
+c143cf39-2290-486b-be17-168be9f12634,Vegan,1,Beverages,15.68,12.44,3.24,Avoidable,Frozen,Trash,2024-04-17
+66f810a9-b1e5-47d1-ac65-d736a8d76188,Vegan,4,Dairy,13.59,12.74,0.85,Avoidable,Frozen,Donation,2024-05-24
+6c5a2c73-1e9c-4b21-a74d-4dd893cffd27,Omnivore,5,Snacks,3.73,3.56,0.17,Avoidable,Refrigerated,Donation,2024-05-04
+5fb84d7f-3528-4fe7-9c1a-f88101ae465f,Omnivore,4,Fruits,9.26,5.87,3.39,Avoidable,Refrigerated,Trash,2024-04-25
+885e3ac3-f78d-426f-8a9e-ad171737c7d1,Pescatarian,3,Dairy,17.58,15.53,2.05,Avoidable,Pantry,Feed Animals,2024-06-08
+7134534e-ec98-44a3-a329-90d7fa110271,Vegetarian,2,Snacks,7.29,5.43,1.86,Avoidable,Pantry,Compost,2024-08-29
+26e2600b-960d-4992-9846-7765f5481acb,Omnivore,2,Vegetables,3.87,1.16,2.7,Avoidable,Pantry,Trash,2024-06-17
+07779929-3e59-410a-a8cb-0bd2ecd2b870,Pescatarian,6,Dairy,7.07,3.75,3.32,Avoidable,Frozen,Feed Animals,2024-07-11
+8fe637ca-6564-4973-9517-462484456a47,Pescatarian,5,Beverages,11.82,11.7,0.12,Avoidable,Pantry,Compost,2024-07-30
+482dbb43-8d2b-49fa-a22c-35a2c2db9e49,Pescatarian,4,Grains,4.35,2.11,2.24,Avoidable,Refrigerated,Feed Animals,2024-09-01
+e38cfb96-3c79-406d-928d-bce0c3f4ae65,Vegetarian,2,Fruits,3.71,2.35,1.36,Avoidable,Frozen,Feed Animals,2024-07-16
+cd88e131-6460-4d98-88f8-300b4f7a253d,Omnivore,1,Snacks,14.5,8.71,5.79,Avoidable,Frozen,Donation,2024-01-23
+d7c9cd91-f11b-4dcc-b14d-50c07a68d846,Vegan,3,Snacks,19.66,6.3,13.35,Avoidable,Refrigerated,Compost,2024-07-18
+81c28c8e-0dff-4b14-9d7f-8a841280070d,Omnivore,1,Fruits,16.33,6.33,9.99,Avoidable,Frozen,Compost,2024-02-28
+a61ca5ce-c628-42a2-aa07-204888f1c2ce,Pescatarian,2,Grains,13.0,6.17,6.83,Avoidable,Frozen,Compost,2024-03-30
+cfa31c68-aa4d-48dd-aa1a-f5243041e9df,Pescatarian,2,Meat,11.61,4.52,7.09,Avoidable,Pantry,Donation,2024-03-28
+f05618bb-e5d9-4fd2-8304-177ee801d80d,Omnivore,5,Grains,17.11,1.57,15.54,Avoidable,Refrigerated,Compost,2024-07-29
+59897f8c-33fa-4989-94b7-72582b9dcb8d,Vegetarian,2,Beverages,18.81,5.54,13.27,Avoidable,Refrigerated,Feed Animals,2024-03-23
+d2a7b47c-ad21-4ac1-8877-af507b1ad6d6,Omnivore,6,Snacks,10.37,4.77,5.6,Avoidable,Pantry,Donation,2024-06-25
+15202cd6-2502-4c4e-946d-7afb53c2d754,Pescatarian,6,Grains,12.48,11.6,0.88,Avoidable,Frozen,Donation,2024-04-15
+860aa319-d934-403c-8ec4-784e8475811d,Omnivore,1,Fruits,14.84,4.04,10.8,Avoidable,Pantry,Feed Animals,2024-01-22
+72ab2db2-00f4-498f-b205-33ed167fa449,Vegetarian,4,Snacks,1.21,0.93,0.28,Avoidable,Pantry,Donation,2024-02-23
+565e36e4-0695-4981-8581-024169824c2f,Vegan,1,Snacks,15.15,11.11,4.04,Avoidable,Refrigerated,Feed Animals,2024-02-09
+e33ad684-268e-4fb2-ab56-34d42cd47aa8,Vegetarian,1,Snacks,1.37,0.72,0.65,Avoidable,Refrigerated,Feed Animals,2024-02-01
+0ff3238c-a5b3-400c-96fb-7f1ab6fff2ce,Vegetarian,3,Grains,19.48,7.69,11.79,Avoidable,Frozen,Trash,2024-05-10
+2f1f1063-0f70-4d65-aefb-35d81da8cfdb,Pescatarian,3,Vegetables,8.16,4.29,3.88,Avoidable,Pantry,Trash,2024-03-22
+3a8b6f57-2334-42e9-84d9-8ba9ce87f51e,Pescatarian,3,Grains,8.21,7.34,0.88,Avoidable,Pantry,Feed Animals,2024-02-15
+b13058b4-73cf-4013-a858-a48890fc2c41,Pescatarian,1,Vegetables,11.13,4.4,6.73,Avoidable,Frozen,Compost,2024-02-02
+09e73488-c6d3-4278-8766-5e4c9a5ab5d9,Omnivore,4,Meat,5.08,4.1,0.99,Avoidable,Refrigerated,Feed Animals,2024-04-01
+ea7e9e24-d9a6-465a-86bc-527975d79ca7,Vegan,3,Beverages,7.36,6.08,1.28,Avoidable,Pantry,Trash,2024-07-17
+c65f38a9-1a06-4579-8e1d-c7f644bbecbe,Vegetarian,3,Meat,12.63,3.13,9.5,Avoidable,Refrigerated,Feed Animals,2024-07-26
+06320b34-d477-458f-8976-16fc9c6274da,Pescatarian,1,Meat,11.45,8.02,3.43,Avoidable,Refrigerated,Donation,2024-06-12
+178b2eba-de54-4632-97fc-039141833378,Vegan,6,Vegetables,3.86,1.91,1.95,Avoidable,Pantry,Compost,2024-03-24
+ac895615-80b3-4407-8c8a-d1dac732088b,Vegan,5,Grains,2.94,0.98,1.96,Avoidable,Pantry,Feed Animals,2024-02-28
+2a5c1f17-0f91-4cf3-8eda-84111304232d,Vegetarian,5,Grains,2.81,1.31,1.5,Avoidable,Frozen,Donation,2024-09-01
+4da48458-e6ae-45b8-81f6-98bcf774ce18,Pescatarian,1,Meat,13.86,8.72,5.15,Avoidable,Frozen,Trash,2024-04-26
+7c04f059-46be-4ce3-8671-1e2b7b9c0701,Omnivore,3,Fruits,11.0,2.7,8.3,Avoidable,Frozen,Trash,2024-06-08
+024bc834-300b-43d4-81f4-5b0a7c8b7a22,Pescatarian,2,Snacks,14.65,8.09,6.56,Avoidable,Frozen,Feed Animals,2024-09-23
+b5ac4013-907e-45cb-884f-eea5ca8b723e,Vegetarian,6,Dairy,4.51,0.78,3.73,Avoidable,Frozen,Donation,2024-08-15
+27cf84f8-ff23-4a6f-a2c2-ac5acbba96a1,Pescatarian,5,Vegetables,9.23,0.63,8.61,Avoidable,Frozen,Feed Animals,2024-01-16
+acef59ac-a1af-4bd4-8c2a-64f770c133ef,Omnivore,5,Vegetables,8.67,2.01,6.66,Avoidable,Frozen,Feed Animals,2024-01-18
+5a5fd69e-7028-437a-9b8e-9de78333f711,Omnivore,1,Beverages,16.03,11.76,4.27,Avoidable,Refrigerated,Trash,2024-01-03
+e904790c-5b15-42de-bbed-2aa70eaea44e,Vegetarian,1,Snacks,8.22,0.63,7.6,Avoidable,Pantry,Donation,2024-02-08
+323e9300-7b2e-40b4-bea9-5ad31251cb6d,Vegetarian,6,Meat,6.68,4.18,2.51,Avoidable,Frozen,Feed Animals,2024-07-14
+bf8fbf73-2116-480e-bdb9-ac19caeee2cd,Vegan,2,Vegetables,17.39,3.54,13.85,Avoidable,Refrigerated,Donation,2024-02-11
+dea17857-a247-4827-9daf-e06c0c740643,Vegan,5,Vegetables,3.1,2.5,0.61,Avoidable,Refrigerated,Trash,2024-05-25
+c573acfc-b0cd-4015-813c-4c996f6cb79c,Vegan,6,Dairy,11.92,4.19,7.73,Avoidable,Frozen,Compost,2024-09-15
+434ebac2-40d9-4c1a-b368-05d69210b047,Pescatarian,4,Dairy,11.6,6.1,5.5,Avoidable,Refrigerated,Trash,2024-05-01
+f4833bef-30ff-4f62-8982-64adafba3a4d,Pescatarian,1,Vegetables,8.55,1.67,6.88,Avoidable,Frozen,Trash,2024-03-17
+e6198bdc-e366-4556-99ba-bdec37f50ced,Vegetarian,5,Fruits,4.14,3.63,0.51,Avoidable,Refrigerated,Compost,2024-06-04
+ef02dbdd-ecaa-4226-8fb4-5e54aa99d7ba,Vegan,2,Dairy,18.69,11.91,6.78,Avoidable,Pantry,Feed Animals,2024-07-19
+37379f37-deea-43af-bddc-0aff848f38cd,Vegetarian,6,Vegetables,6.81,1.08,5.73,Avoidable,Frozen,Trash,2024-08-19
+5d7a975f-ec8c-4d10-ae45-7aba0d6589b6,Vegan,1,Meat,12.02,6.12,5.9,Avoidable,Frozen,Compost,2024-07-12
+176bd8e2-80d9-4c06-98d4-d82101c0f47b,Vegan,5,Beverages,11.78,10.98,0.8,Avoidable,Pantry,Donation,2024-04-03
+9b2ea528-6d18-42f4-b4ab-39e3d2d2ae76,Vegan,5,Vegetables,3.5,3.25,0.25,Avoidable,Refrigerated,Feed Animals,2024-06-22
+75aa1540-e9e8-4cbb-b82c-73c8fda4c2ad,Vegetarian,3,Grains,8.9,3.18,5.72,Avoidable,Refrigerated,Trash,2024-01-04
+98d5e13f-6e26-4b66-87f5-8db80c23eac5,Vegan,2,Meat,18.91,2.22,16.7,Avoidable,Frozen,Feed Animals,2024-04-19
+17a9e419-6f5d-4ced-90ef-22f673179342,Omnivore,3,Beverages,15.87,3.42,12.45,Avoidable,Frozen,Feed Animals,2024-03-10
+9bd4f3a1-8120-441a-8c28-3baa8cd91232,Vegetarian,3,Fruits,8.02,7.88,0.14,Avoidable,Refrigerated,Trash,2024-01-24
+f2978254-a8a8-41ca-829a-db1ab1647ab8,Vegetarian,5,Vegetables,1.95,1.78,0.17,Avoidable,Refrigerated,Feed Animals,2024-09-12
+1e393cd3-e0ac-4387-a58d-3c6f7dbc20b5,Vegetarian,6,Snacks,5.68,0.62,5.06,Avoidable,Refrigerated,Feed Animals,2024-02-14
+d03123e1-76ee-47a2-8bd4-7f1a8618a847,Pescatarian,5,Grains,14.53,4.36,10.17,Avoidable,Frozen,Trash,2024-02-12
+2ede7b6f-8cae-4f38-b6a2-7a857b1b6c7c,Pescatarian,5,Beverages,4.47,2.23,2.25,Avoidable,Pantry,Feed Animals,2024-08-22
+0aef5e08-ccad-4edc-bb10-91ebf990364e,Vegan,5,Dairy,13.19,3.55,9.64,Avoidable,Refrigerated,Feed Animals,2024-07-08
+60a62823-97c8-45c2-afe6-c74e7e70a0da,Vegetarian,3,Beverages,13.66,2.5,11.16,Avoidable,Frozen,Trash,2024-02-09
+1954ac30-237c-4a83-bfe3-341757f40a6e,Pescatarian,6,Meat,8.93,8.48,0.44,Avoidable,Refrigerated,Donation,2024-04-09
+1204d5b3-3635-4cde-a5e3-0d521bc114b6,Omnivore,5,Snacks,7.62,3.08,4.54,Avoidable,Refrigerated,Compost,2024-03-05
+f9ebf580-9ee9-4bbd-a365-7ca0d28999ed,Omnivore,1,Vegetables,3.82,3.81,0.01,Avoidable,Pantry,Donation,2024-08-02
+88dae655-80b5-416a-9409-8ea918056076,Omnivore,4,Dairy,16.83,4.64,12.19,Avoidable,Frozen,Trash,2024-06-04
+5692f2ab-c372-40b1-ac4b-86f5c65e904d,Omnivore,1,Fruits,9.42,9.39,0.03,Avoidable,Frozen,Feed Animals,2024-06-13
+4aa1b837-da93-4492-add0-9ac0824e0a3a,Omnivore,3,Meat,11.9,9.07,2.83,Avoidable,Frozen,Donation,2024-03-26
+78ffe4ae-5416-46f9-8c33-55a8a052bd95,Pescatarian,4,Meat,2.67,2.67,0.01,Avoidable,Refrigerated,Donation,2024-04-14
+5744637c-f23d-445a-a145-b1307a36958f,Vegan,3,Vegetables,1.42,1.18,0.25,Avoidable,Pantry,Compost,2024-04-16
+4c474be9-b9ce-48d8-9b4f-88076210abac,Vegan,4,Snacks,4.03,2.39,1.64,Avoidable,Frozen,Feed Animals,2024-09-03
+a5aca853-713b-4f5d-9458-a51afb63f189,Vegan,3,Beverages,10.84,2.5,8.34,Avoidable,Pantry,Trash,2024-05-05
+49e734b5-00f6-44b2-90da-cea7a13d0e53,Vegan,2,Dairy,13.84,4.1,9.75,Avoidable,Refrigerated,Trash,2024-09-24
+5bef7b16-8f54-4854-b6ca-5f3aaa47d84d,Pescatarian,3,Fruits,10.84,9.46,1.38,Avoidable,Pantry,Compost,2024-02-14
+b2397619-08e2-498e-ac9f-c33411c0a5b7,Vegetarian,5,Grains,17.91,1.56,16.35,Avoidable,Pantry,Trash,2024-04-05
+f0731438-f9dc-40b4-a852-75279db33a25,Omnivore,2,Beverages,13.9,2.25,11.66,Avoidable,Frozen,Donation,2024-01-09
+34079047-4c84-4e33-99f9-87ae36a45ee1,Pescatarian,3,Fruits,1.63,1.27,0.36,Avoidable,Pantry,Trash,2024-01-16
+098016b6-1357-40e3-a64b-386c77db5744,Vegan,3,Fruits,7.59,2.77,4.82,Avoidable,Refrigerated,Feed Animals,2024-04-05
+c8cd2df8-08e0-4ba8-b85f-1a66e8b7710d,Vegan,5,Snacks,1.69,1.65,0.04,Avoidable,Frozen,Trash,2024-07-24
+f1b29881-c758-4aeb-9946-4b1667b49c49,Pescatarian,3,Snacks,7.08,3.38,3.7,Avoidable,Refrigerated,Feed Animals,2024-03-03
+1d1d4242-6ef8-4b44-b041-7ec2e212be69,Omnivore,5,Fruits,18.85,16.5,2.35,Avoidable,Refrigerated,Trash,2024-08-25
+1d587fec-ba38-4fff-a963-31c9d91febdb,Omnivore,3,Vegetables,5.82,0.58,5.24,Avoidable,Pantry,Donation,2024-03-05
+bccaf518-8d74-43ba-b828-b2dca018c1dc,Vegan,2,Grains,8.53,0.69,7.85,Avoidable,Refrigerated,Feed Animals,2024-01-28
+428ef99f-ee56-47fb-bf64-3a696891f653,Omnivore,1,Fruits,2.49,1.58,0.92,Avoidable,Refrigerated,Donation,2024-05-08
+aad0b2de-00d0-4334-a0ed-7c4453b0e217,Vegetarian,4,Fruits,1.28,0.81,0.46,Avoidable,Refrigerated,Compost,2024-08-18
+5fbb6277-6392-409b-a507-c8c038401f69,Omnivore,6,Snacks,12.85,1.65,11.21,Avoidable,Pantry,Compost,2024-09-06
+286826fb-e49b-48fe-be13-b3db36ba33d6,Omnivore,1,Fruits,9.0,4.83,4.17,Avoidable,Pantry,Trash,2024-04-17
+517af851-1c57-4277-a6ed-482663b17b5f,Vegetarian,2,Snacks,8.16,6.71,1.46,Avoidable,Refrigerated,Donation,2024-01-17
+8fe0bbac-cf77-4e23-8905-6e8e5a432424,Vegan,5,Vegetables,13.95,11.92,2.03,Avoidable,Frozen,Donation,2024-02-29
+8a6eb8ef-a25b-47b9-9763-b0ea6eb8becd,Pescatarian,6,Fruits,11.15,3.4,7.76,Avoidable,Frozen,Feed Animals,2024-07-31
+b04a6389-7706-43d0-b1e2-6e5a301606b1,Vegetarian,2,Grains,10.05,7.11,2.95,Avoidable,Refrigerated,Feed Animals,2024-08-16
+e3bf1827-b2e5-4b70-94d5-816129734871,Pescatarian,1,Dairy,17.94,9.04,8.9,Avoidable,Frozen,Trash,2024-08-08
+badf1b84-ed48-45ce-a354-d875540190c8,Vegan,4,Dairy,11.06,4.01,7.04,Avoidable,Pantry,Trash,2024-01-20
+f6f2e7d9-260a-461f-a507-b1cafa0498ef,Vegan,2,Vegetables,19.69,3.65,16.04,Avoidable,Pantry,Trash,2024-02-29
+dafb07f3-c560-4160-a324-07d983212ee8,Vegetarian,5,Grains,8.3,3.09,5.21,Avoidable,Pantry,Compost,2024-02-14
+3d993b70-62c4-4ec3-a0f9-f6bebdcd2f33,Vegetarian,1,Snacks,2.56,2.14,0.42,Avoidable,Frozen,Donation,2024-03-02
+cb30c284-d897-45c2-bdfc-8565b2e2b4a5,Pescatarian,5,Meat,19.54,2.68,16.86,Avoidable,Pantry,Trash,2024-06-01
+24a225be-e027-4195-920e-d12c3296f0c8,Vegetarian,6,Vegetables,10.71,4.95,5.77,Avoidable,Pantry,Donation,2024-03-01
+c84de721-35fa-4190-a561-43b368ce7a64,Pescatarian,6,Dairy,1.23,0.79,0.44,Avoidable,Pantry,Feed Animals,2024-03-25
+2d20dea2-f608-40d7-b782-542f1cfe6e57,Pescatarian,6,Beverages,5.57,0.66,4.91,Avoidable,Refrigerated,Compost,2024-02-02
+f5cf3de2-c591-4d59-ae3a-7e941ace87ec,Pescatarian,5,Fruits,4.34,2.14,2.2,Avoidable,Frozen,Trash,2024-01-17
+0a8c8d80-e898-49a9-b03c-f4fbc9bc160b,Vegan,4,Dairy,4.86,1.46,3.4,Avoidable,Pantry,Compost,2024-07-18
+23737c29-015f-4faf-93be-a07506ab474d,Vegetarian,4,Meat,7.71,5.69,2.02,Avoidable,Frozen,Feed Animals,2024-07-28
+33381537-486e-448a-89b0-84e8e3e70997,Vegan,4,Meat,16.16,6.27,9.89,Avoidable,Pantry,Feed Animals,2024-01-16
+007758fd-40e7-4b77-86cf-81c8d3027a6d,Omnivore,1,Fruits,19.1,16.98,2.13,Avoidable,Refrigerated,Donation,2024-02-13
+94ad3ba7-faae-4817-847e-cdeff0099e6e,Pescatarian,6,Grains,15.26,10.8,4.46,Avoidable,Refrigerated,Donation,2024-08-13
+7e75edce-b42f-40db-bdfe-c7489f90b80e,Vegetarian,6,Meat,4.61,1.58,3.02,Avoidable,Pantry,Donation,2024-05-10
+9e842b23-7dc3-41c4-a53d-03d25e64360b,Omnivore,3,Dairy,12.89,10.77,2.12,Avoidable,Pantry,Feed Animals,2024-08-31
+aaf01835-3bf4-4236-9e4a-7e3e019a4e42,Pescatarian,3,Dairy,11.17,10.3,0.87,Avoidable,Frozen,Trash,2024-09-04
+9bc72ebe-758b-4a83-a57e-7f909fc4ab44,Vegan,6,Vegetables,12.85,11.89,0.96,Avoidable,Frozen,Compost,2024-08-03
+a91f6b36-b04c-4b32-87ed-642ceadea6f2,Omnivore,5,Grains,12.34,10.62,1.71,Avoidable,Frozen,Trash,2024-06-19
+98380f4e-ab9b-4eb8-9089-b19391f68214,Omnivore,6,Snacks,11.91,10.67,1.24,Avoidable,Frozen,Feed Animals,2024-08-09
+23325df3-7406-4f36-acda-6ac05ef6d3f4,Vegan,1,Snacks,19.35,3.28,16.06,Avoidable,Refrigerated,Trash,2024-03-13
+8838ac01-e662-4004-9026-4fc66e82fe1a,Vegetarian,5,Snacks,5.29,2.7,2.59,Avoidable,Pantry,Compost,2024-06-29
+e85d72b5-0aa6-4159-bd26-3be794881edf,Omnivore,3,Meat,17.31,8.42,8.88,Avoidable,Pantry,Compost,2024-05-30
+33bd553b-15b4-47df-9543-d8f2367d540c,Omnivore,3,Meat,6.46,4.78,1.68,Avoidable,Pantry,Compost,2024-01-02
+8cad352a-12ae-4ca0-b318-28b820982306,Omnivore,3,Meat,6.61,3.93,2.68,Avoidable,Pantry,Donation,2024-02-16
+97d9969d-0760-4ee2-adb5-3a02a6a932f2,Vegetarian,2,Meat,4.5,0.84,3.66,Avoidable,Pantry,Trash,2024-07-26
+9ddcb454-95b2-4d1e-97c0-e27173006da1,Vegan,6,Snacks,19.21,0.78,18.43,Avoidable,Frozen,Donation,2024-04-18
+eb45a490-ab86-4771-8f98-4a13c47c4021,Vegetarian,4,Beverages,9.81,1.02,8.8,Avoidable,Frozen,Trash,2024-01-06
+4293a888-482d-496e-a024-f3e958a3a047,Vegetarian,5,Dairy,16.81,10.51,6.3,Avoidable,Frozen,Feed Animals,2024-05-06
+dbfcca65-104f-48a2-b16f-fa04e17945d1,Omnivore,3,Beverages,11.67,10.75,0.92,Avoidable,Frozen,Feed Animals,2024-07-27
+8587d7e1-f809-4ae4-8073-760ccc736c9c,Vegetarian,4,Meat,6.9,3.38,3.52,Avoidable,Refrigerated,Donation,2024-05-28
+3cd0284c-4348-4832-9a4c-6eb73748c0ca,Pescatarian,1,Fruits,17.35,1.04,16.31,Avoidable,Pantry,Donation,2024-09-13
+587aaa93-7598-436b-82f7-8b64c3b546bb,Omnivore,1,Snacks,10.32,3.59,6.73,Avoidable,Frozen,Feed Animals,2024-04-10
+a705662e-f890-4b5a-8d8b-37f90cac03ad,Vegetarian,1,Snacks,14.6,10.94,3.66,Avoidable,Refrigerated,Trash,2024-09-22
+3fa59476-6ad4-4633-98d1-70d6c1bbfa12,Vegan,1,Meat,17.82,11.31,6.51,Avoidable,Refrigerated,Trash,2024-02-28
+82556a5e-3196-4bab-9d6d-392f594843ef,Pescatarian,1,Beverages,13.36,3.56,9.8,Avoidable,Frozen,Feed Animals,2024-04-09
+9b2c15e3-9561-49f6-a6dc-149fbd06e2e5,Vegan,2,Grains,6.16,1.61,4.55,Avoidable,Frozen,Donation,2024-01-03
+6fba8ce4-1a7f-4426-b43d-fa2085d1e7aa,Omnivore,1,Snacks,17.8,9.06,8.74,Avoidable,Frozen,Feed Animals,2024-07-25
+2460da7a-bbb3-400b-bed0-68b8d3f0757e,Vegan,4,Beverages,15.57,4.43,11.15,Avoidable,Pantry,Donation,2024-01-24
+b283262a-221a-4bfc-a72a-46e247b29256,Pescatarian,1,Vegetables,6.22,3.38,2.84,Avoidable,Frozen,Feed Animals,2024-01-09
+2d78a6f4-895c-4a46-a487-bdd0d4a0ed61,Pescatarian,5,Grains,12.1,3.84,8.26,Avoidable,Refrigerated,Feed Animals,2024-03-31
+6ec67870-a845-4ae2-9818-4c2eafd92288,Pescatarian,2,Grains,12.67,9.98,2.69,Avoidable,Pantry,Donation,2024-08-27
+eaf08e08-e03b-4b1d-aba1-1e9304aa0b05,Pescatarian,2,Meat,15.6,10.48,5.12,Avoidable,Pantry,Feed Animals,2024-02-19
+14efb672-10bc-4279-8e90-f073c3353a38,Omnivore,4,Snacks,2.55,1.8,0.76,Avoidable,Refrigerated,Compost,2024-05-17
+767f9a78-b73c-4a6c-966b-cbbdaf183d0d,Vegan,5,Grains,10.88,5.64,5.23,Avoidable,Pantry,Trash,2024-08-02
+a7813754-5a83-45af-9273-73265bd5bd21,Pescatarian,1,Vegetables,10.66,5.33,5.33,Avoidable,Pantry,Feed Animals,2024-03-03
+9c5daa81-dbb6-4ee6-b873-304a1818ee2e,Vegan,2,Snacks,6.32,3.4,2.92,Avoidable,Frozen,Donation,2024-06-15
+8170d996-1ddb-47a0-833a-8eab104bf274,Vegan,1,Meat,14.71,11.5,3.21,Avoidable,Frozen,Trash,2024-06-15
+dc76660b-7df1-4885-862f-bd60ef0ffdac,Vegan,3,Snacks,10.78,4.56,6.22,Avoidable,Refrigerated,Compost,2024-07-26
+0d1d420f-842d-4130-a454-7b9be418c13c,Omnivore,3,Snacks,13.86,8.77,5.09,Avoidable,Frozen,Compost,2024-03-23
+42066efa-2bf0-4258-bd5a-fae9773c4c7f,Vegetarian,5,Beverages,13.07,4.57,8.5,Avoidable,Pantry,Donation,2024-09-12
+cac63076-e6b9-428d-bfdf-5acf551283d3,Omnivore,1,Vegetables,8.27,8.19,0.07,Avoidable,Refrigerated,Trash,2024-05-16
+7b87159a-ac36-4210-9c77-98326931f1ce,Pescatarian,1,Snacks,11.31,8.57,2.74,Avoidable,Pantry,Trash,2024-06-26
+50bfb2e2-2c40-4e93-8337-9bd585036aef,Vegan,1,Meat,14.0,2.97,11.03,Avoidable,Pantry,Donation,2024-01-23
+1631c8f1-9740-482f-a52a-f05ad9e338de,Omnivore,4,Meat,2.01,0.88,1.12,Avoidable,Refrigerated,Trash,2024-08-31
+1ccc9729-6673-424a-bd86-67138f876ec5,Vegan,3,Snacks,17.71,0.87,16.84,Avoidable,Frozen,Compost,2024-01-21
+52c53b4e-6a99-4fd6-921b-b4b1a4522945,Vegetarian,3,Snacks,8.41,0.97,7.45,Avoidable,Frozen,Trash,2024-02-20
+881f4979-7f90-4403-8551-29e47ff9b069,Vegan,6,Snacks,3.36,0.63,2.73,Avoidable,Pantry,Trash,2024-04-29
+9d407d4a-d75a-4d44-b04e-b9237fd57b42,Vegan,6,Snacks,9.13,3.58,5.55,Avoidable,Refrigerated,Feed Animals,2024-03-16
+e5956dd1-9e8b-49aa-880b-eb51205dcc0d,Vegetarian,6,Grains,14.51,12.19,2.32,Avoidable,Frozen,Compost,2024-02-19
+a8da300a-178d-4df5-b966-5ae3ebf06496,Vegan,6,Fruits,8.34,5.14,3.2,Avoidable,Refrigerated,Trash,2024-04-07
+2690daa0-8fb0-4a78-9411-c5266a21377f,Omnivore,5,Snacks,18.75,0.53,18.22,Avoidable,Frozen,Donation,2024-09-08
+0f1b7bf8-67a6-4d74-9dfc-256cd94d5027,Omnivore,6,Meat,16.9,6.21,10.69,Avoidable,Refrigerated,Feed Animals,2024-01-23
+f7ec8610-e386-42bb-9c82-d8438c40a05b,Vegan,1,Beverages,13.85,7.91,5.94,Avoidable,Pantry,Donation,2024-07-17
+5783e8a1-9954-4caa-83c9-16e9513358a5,Vegan,4,Snacks,6.21,4.67,1.54,Avoidable,Frozen,Trash,2024-06-28
+2338dcc0-fdc0-477d-865c-e5b0eac6716f,Vegetarian,2,Grains,13.36,4.96,8.4,Avoidable,Refrigerated,Trash,2024-05-14
+280c762f-eb13-4ed1-a168-e16b5065b896,Omnivore,4,Fruits,11.63,7.89,3.75,Avoidable,Frozen,Feed Animals,2024-02-05
+cd07a2b4-85bc-4716-92b3-ceb48e49d99d,Vegan,2,Dairy,7.51,4.35,3.16,Avoidable,Pantry,Compost,2024-09-15
+a07834e8-94d5-45c4-8d5f-6a4107b94f20,Vegan,6,Meat,15.1,10.19,4.91,Avoidable,Pantry,Donation,2024-05-25
+f5b01aae-11d3-4be2-860d-15b5a48baa80,Vegetarian,6,Snacks,13.26,0.93,12.33,Avoidable,Pantry,Compost,2024-08-22
+745cd6b2-0d43-4d6b-adce-017b586ec2f5,Omnivore,2,Grains,1.09,0.9,0.19,Avoidable,Refrigerated,Feed Animals,2024-09-04
+9079a5d6-a6ce-4a30-ac21-c4bfffcc94f7,Pescatarian,2,Meat,10.47,3.56,6.91,Avoidable,Refrigerated,Compost,2024-08-08
+8c971640-aa2c-438d-984a-24e629226afd,Vegan,3,Beverages,11.75,7.39,4.36,Avoidable,Refrigerated,Feed Animals,2024-02-23
+5e55c7b0-3cc6-4d7f-84d9-c7a95a41537f,Vegan,2,Snacks,1.38,0.56,0.82,Avoidable,Pantry,Donation,2024-04-28
+69746f00-bf2a-45d9-b675-2054f7cefcec,Vegetarian,2,Meat,12.4,8.04,4.36,Avoidable,Frozen,Donation,2024-08-18
+19d4064d-95c4-4662-9a86-0d38c7939917,Omnivore,4,Fruits,17.55,16.78,0.78,Avoidable,Refrigerated,Trash,2024-08-20
+578c8a38-58c4-4967-9b23-b2a58366f9a9,Omnivore,4,Dairy,7.29,1.16,6.13,Avoidable,Frozen,Compost,2024-01-27
+6bdf31ba-fe06-4ffa-a5b6-4e3d4df33c08,Omnivore,1,Meat,3.27,1.57,1.7,Avoidable,Pantry,Feed Animals,2024-01-12
+dbcd164e-c547-4bf5-b554-643297690e18,Pescatarian,5,Dairy,11.99,1.64,10.35,Avoidable,Pantry,Feed Animals,2024-05-16
+8f92f696-af4e-4dd4-85c1-bd182ced54c9,Vegan,1,Snacks,19.41,5.34,14.07,Avoidable,Refrigerated,Donation,2024-07-13
+a000aad9-4c11-4eb8-9802-bca41b8e5583,Omnivore,4,Dairy,17.47,13.95,3.52,Avoidable,Frozen,Feed Animals,2024-03-29
+403bfd0f-1de3-436e-873a-63fbba9fb4c9,Vegan,1,Dairy,3.42,2.64,0.78,Avoidable,Pantry,Compost,2024-03-13
+a148d479-716d-4e89-99a4-ff1643ccc1f7,Vegetarian,4,Vegetables,8.91,8.79,0.12,Avoidable,Pantry,Trash,2024-02-18
+9f4dca83-9373-46f4-ae6d-609431e1ef8d,Vegan,3,Dairy,12.85,4.86,7.99,Avoidable,Pantry,Feed Animals,2024-07-25
+a252ca3e-7c1f-40f7-a393-be21a980753e,Pescatarian,4,Dairy,9.0,2.6,6.4,Avoidable,Frozen,Feed Animals,2024-07-29
+8dfa6c85-9d34-4131-a463-244ecdf7945c,Omnivore,6,Meat,3.43,2.15,1.28,Avoidable,Refrigerated,Compost,2024-05-10
+a1990c1c-3c82-43f4-a0e0-8ad38c865f03,Pescatarian,4,Beverages,15.84,6.2,9.64,Avoidable,Refrigerated,Donation,2024-05-02
+23919139-2ea7-47f3-aab9-4d34ed24dfd7,Pescatarian,6,Dairy,15.62,6.32,9.3,Avoidable,Pantry,Feed Animals,2024-04-01
+b8f75986-4879-460f-8d73-3cb833ba55b9,Pescatarian,2,Snacks,14.69,6.16,8.54,Avoidable,Frozen,Trash,2024-07-29
+93aa795a-28e4-425c-8e68-8a6bc10f9004,Vegan,2,Vegetables,16.23,8.76,7.47,Avoidable,Pantry,Feed Animals,2024-06-06
+bc244cce-b28b-48fc-a3ff-bc63d1cc2d24,Vegetarian,2,Snacks,6.29,2.02,4.27,Avoidable,Refrigerated,Compost,2024-07-06
+ade6acf3-ffef-4200-9354-ccc15dc80e40,Omnivore,5,Dairy,14.61,5.56,9.06,Avoidable,Pantry,Trash,2024-06-01
+6379ed06-9121-4fbe-a560-705a8f666f20,Omnivore,2,Snacks,12.32,3.11,9.21,Avoidable,Refrigerated,Compost,2024-04-11
+6e8b8f87-b099-49a8-abcc-8894aa91835e,Omnivore,4,Fruits,14.33,6.17,8.17,Avoidable,Frozen,Donation,2024-04-17
+dcae47de-8a52-48fe-9df5-7ef7ff50cc08,Omnivore,1,Vegetables,4.59,1.82,2.77,Avoidable,Frozen,Feed Animals,2024-09-08
+c5ee2675-ac78-4cb7-8b68-868a9fd7419d,Vegan,2,Dairy,9.68,8.7,0.99,Avoidable,Frozen,Donation,2024-03-07
+31553c4a-544a-4bbd-9985-5a3a687538d2,Pescatarian,3,Meat,10.34,9.47,0.87,Avoidable,Frozen,Donation,2024-03-28
+7febbeee-61f4-4245-a79d-3e10f3106517,Vegetarian,1,Vegetables,1.61,1.36,0.25,Avoidable,Refrigerated,Compost,2024-03-26
+ec4eecc6-7dcc-4b7f-a6eb-40094c98b473,Vegan,6,Dairy,13.59,1.15,12.44,Avoidable,Refrigerated,Donation,2024-06-16
+921e8475-7e59-4e1c-82cc-3e5fcdcdc396,Pescatarian,6,Vegetables,4.47,3.94,0.53,Avoidable,Refrigerated,Donation,2024-01-09
+22c2398d-51cc-4567-9d7d-b5f44c9a6bdb,Vegan,1,Dairy,9.89,6.34,3.54,Avoidable,Frozen,Compost,2024-09-09
+ccf28dd5-2a74-414c-bec7-c6f57d408b63,Vegan,6,Dairy,7.42,0.88,6.54,Avoidable,Frozen,Feed Animals,2024-05-06
+2fc75d56-3f50-4198-b051-55a3c977f09e,Omnivore,6,Fruits,12.73,0.53,12.2,Avoidable,Refrigerated,Trash,2024-03-26
+93c8a295-fac0-4f93-b205-e261a18cce27,Vegan,6,Grains,7.55,7.47,0.08,Avoidable,Refrigerated,Feed Animals,2024-07-10
+deb6dbbb-ccb7-4958-ad37-a05f07c29091,Omnivore,4,Vegetables,9.8,1.37,8.42,Avoidable,Frozen,Trash,2024-07-18
+1df52786-c142-409e-8eb1-fa12cb6dc90f,Vegetarian,2,Vegetables,4.8,3.62,1.18,Avoidable,Pantry,Trash,2024-06-06
+48e8f742-7c9c-4a37-8fe6-025d625ccf40,Vegan,5,Dairy,13.01,11.87,1.14,Avoidable,Frozen,Compost,2024-06-08
+67e82575-e131-4005-995a-5b30dbe410c6,Pescatarian,2,Vegetables,18.4,14.48,3.91,Avoidable,Refrigerated,Donation,2024-02-01
+814199ea-86f4-423c-90e9-ba32845e5292,Vegetarian,5,Beverages,1.72,1.29,0.43,Avoidable,Frozen,Donation,2024-01-22
+bc74af9d-19d7-4476-b57a-bf13e1f7ecdd,Pescatarian,4,Grains,3.84,1.51,2.33,Avoidable,Frozen,Feed Animals,2024-09-11
+2beca9da-f75a-4be3-9a8d-851b90808b61,Vegetarian,5,Snacks,8.69,1.6,7.09,Avoidable,Pantry,Feed Animals,2024-03-28
+6912c057-1f1a-40df-acf5-4299077c7f2e,Vegetarian,6,Beverages,15.68,8.66,7.02,Avoidable,Frozen,Compost,2024-05-21
+5350cf8e-6ca0-4f34-85c5-703cfcbc74eb,Vegetarian,1,Beverages,5.87,2.74,3.13,Avoidable,Refrigerated,Trash,2024-08-23
+d29fbfbf-78e0-4151-92c9-a7a6c6977b46,Omnivore,6,Meat,6.38,5.5,0.88,Avoidable,Frozen,Compost,2024-07-20
+2d1291e9-ee1f-462f-9352-bd3796b70a44,Pescatarian,6,Snacks,10.64,4.56,6.08,Avoidable,Refrigerated,Trash,2024-05-05
+4cbb15b8-34fa-4386-a922-c872cfe8d3a1,Pescatarian,4,Beverages,1.52,0.6,0.92,Avoidable,Frozen,Donation,2024-03-14
+cf56b4f3-f9c3-4ff4-9ef7-913e2ccf9ea9,Omnivore,4,Vegetables,12.97,8.02,4.95,Avoidable,Frozen,Trash,2024-05-11
+4d31d266-d4f7-4e09-ae23-b698a3e70ba0,Pescatarian,3,Fruits,10.13,5.68,4.44,Avoidable,Refrigerated,Compost,2024-01-15
+94f43776-1a5e-49a7-a090-ef70d08d1a15,Vegan,2,Fruits,19.05,11.95,7.1,Avoidable,Frozen,Compost,2024-06-27
+5b775aa5-1f0b-4c02-9822-3d0dd4142a77,Vegetarian,5,Fruits,9.5,9.15,0.35,Avoidable,Pantry,Trash,2024-01-19
+99c92db5-8587-4107-bfed-e38c1abd7f4f,Vegetarian,1,Beverages,1.6,0.95,0.65,Avoidable,Frozen,Feed Animals,2024-03-15
+f7ad3a51-b1e2-4186-9936-bfd55ab4824c,Vegan,1,Snacks,19.38,5.9,13.48,Avoidable,Pantry,Trash,2024-02-26
+d689ae21-b7ce-46e8-8b31-4eec818f8cc4,Vegetarian,2,Fruits,17.02,10.85,6.17,Avoidable,Frozen,Feed Animals,2024-07-16
+5520341f-1c7b-490c-8d1c-e29458239dc6,Vegan,6,Grains,6.84,1.27,5.56,Avoidable,Frozen,Donation,2024-05-09
+0c12902e-3952-4838-aff3-96baaa68cd0a,Vegetarian,6,Dairy,10.24,2.74,7.5,Avoidable,Frozen,Feed Animals,2024-09-07
+7f5d4b07-65fe-4665-8fb6-6330f9ced887,Vegan,6,Fruits,9.55,6.23,3.32,Avoidable,Frozen,Feed Animals,2024-06-18
+0b6f3394-262c-47a8-8209-bc22138ed599,Omnivore,6,Meat,1.88,1.45,0.43,Avoidable,Refrigerated,Compost,2024-03-18
+6e815aa4-e45b-4d4c-91c5-1484839cfa0e,Vegetarian,6,Meat,5.07,1.52,3.56,Avoidable,Frozen,Compost,2024-09-19
+2b63dbe7-c5f5-4cb3-a036-b896f536966e,Omnivore,6,Beverages,10.43,7.42,3.01,Avoidable,Frozen,Donation,2024-01-18
+7d9c7171-5172-42a3-8a39-dc68d340f8fa,Vegetarian,6,Meat,2.3,1.46,0.84,Avoidable,Frozen,Feed Animals,2024-06-22
+a4021ea1-1ae7-4230-ac81-6d268e07b44a,Vegetarian,3,Grains,10.5,1.27,9.22,Avoidable,Pantry,Trash,2024-01-27
+1294a4d3-bb84-40ed-9fc4-70b7b1a002fc,Omnivore,1,Fruits,13.66,12.72,0.93,Avoidable,Pantry,Compost,2024-08-20
+42df88ac-8fdb-435c-8a7f-e4076de57703,Omnivore,1,Dairy,1.96,0.5,1.46,Avoidable,Refrigerated,Feed Animals,2024-01-30
+2458cb87-0dc9-4bf8-aad1-6705bb3a6c71,Pescatarian,6,Beverages,7.3,1.47,5.83,Avoidable,Pantry,Feed Animals,2024-07-13
+60c70110-c689-4fb4-9eb0-77b9c5bf0f75,Vegan,5,Snacks,12.71,8.8,3.91,Avoidable,Frozen,Donation,2024-05-30
+e56b1ea1-6a18-4167-b5fd-467e48a000cd,Omnivore,2,Fruits,11.2,6.6,4.61,Avoidable,Frozen,Compost,2024-03-15
+2120cd68-0cf0-4bef-833b-6a840016c81a,Vegan,3,Fruits,13.9,1.89,12.01,Avoidable,Refrigerated,Donation,2024-05-17
+420d1cc9-9470-4e90-a174-5ee81fe5a798,Vegan,2,Meat,17.51,13.59,3.92,Avoidable,Frozen,Trash,2024-01-13
+f5d24f9b-f6c8-41c9-805a-fb88097d1305,Vegetarian,5,Dairy,4.14,2.86,1.27,Avoidable,Refrigerated,Compost,2024-01-14
+f226612b-10a2-4f64-aec1-6f4f067e52e1,Pescatarian,5,Vegetables,15.72,7.68,8.04,Avoidable,Refrigerated,Feed Animals,2024-09-08
+63849f2c-8851-4527-8f24-8f1b543d1a2c,Omnivore,4,Beverages,14.81,3.07,11.73,Avoidable,Frozen,Compost,2024-09-21
+d67a039a-45f5-4c1f-95d4-c403cae59347,Omnivore,1,Fruits,12.61,8.7,3.91,Avoidable,Frozen,Donation,2024-07-20
+5b33afd4-1a69-4ef4-be3a-960129d106a9,Vegan,4,Beverages,8.61,7.18,1.43,Avoidable,Pantry,Compost,2024-07-18
+c943c08d-5446-402f-bd8b-7a915b2155ab,Vegetarian,5,Fruits,12.23,11.75,0.47,Avoidable,Pantry,Compost,2024-07-30
+9258e680-0891-4c40-94b3-2d3d6c21c494,Vegetarian,4,Snacks,8.88,5.7,3.17,Avoidable,Refrigerated,Trash,2024-03-25
+3f52577f-9fa4-4f8f-8ee8-f20355db884d,Omnivore,1,Grains,13.84,9.13,4.71,Avoidable,Pantry,Compost,2024-07-25
+2abb2701-3a24-4069-a0a2-aba9b0f2e180,Vegan,3,Dairy,14.21,8.34,5.87,Avoidable,Frozen,Feed Animals,2024-01-26
+4e555b9b-42b3-49c8-88dc-869f96678bff,Vegetarian,6,Vegetables,19.11,0.59,18.52,Avoidable,Refrigerated,Donation,2024-08-03
+2cf82d9a-c78d-4db8-91ac-394f62c4b093,Omnivore,2,Grains,1.92,0.93,0.99,Avoidable,Pantry,Trash,2024-07-07
+1bd859f9-a9ed-4232-a11d-2a505e28a973,Vegetarian,5,Snacks,5.37,2.94,2.43,Avoidable,Frozen,Feed Animals,2024-07-29
+0142de2c-83be-4db7-86a1-19716a33c96a,Vegan,5,Dairy,2.51,0.66,1.85,Avoidable,Frozen,Compost,2024-01-15
+7edfb40f-1efa-458a-b0f8-9ebc52e7c9df,Omnivore,5,Meat,3.79,2.24,1.55,Avoidable,Refrigerated,Trash,2024-05-22
+5923ed31-9c6b-45f5-875c-d68adb18a4d9,Vegetarian,2,Grains,9.33,0.91,8.42,Avoidable,Frozen,Trash,2024-03-19
+c23ab192-3025-4a3b-9437-ca21a569e3a7,Vegan,6,Vegetables,7.65,6.66,1.0,Avoidable,Pantry,Donation,2024-09-16
+248eb736-799b-4abd-93b7-c57283107411,Vegetarian,4,Beverages,1.85,1.35,0.5,Avoidable,Pantry,Donation,2024-08-03
+3491988a-5b2c-420b-80d9-ce532fc78534,Vegetarian,5,Meat,4.35,3.83,0.52,Avoidable,Refrigerated,Compost,2024-03-04
+a98c9a82-80e9-4b0c-a7da-27086dc79f3b,Vegetarian,2,Meat,19.05,9.91,9.15,Avoidable,Refrigerated,Feed Animals,2024-07-18
+72e7de9c-a1a1-4636-9dd4-53fdc6884662,Omnivore,5,Fruits,9.04,5.49,3.54,Avoidable,Frozen,Donation,2024-08-22
+3643d6d9-2afe-4a86-a040-7b4946510822,Vegetarian,3,Snacks,18.47,8.48,9.98,Avoidable,Frozen,Feed Animals,2024-03-28
+25872d46-1538-4b30-8da3-b3b4a9b44e05,Pescatarian,5,Fruits,5.7,4.17,1.53,Avoidable,Refrigerated,Donation,2024-04-30
+20d9708e-5a84-471d-b0b6-798ef85e72a5,Vegetarian,4,Meat,5.35,1.57,3.78,Avoidable,Frozen,Compost,2024-02-27
+97ddbc7b-9867-4a38-a86f-2573701db0c5,Vegan,2,Grains,6.32,3.95,2.37,Avoidable,Refrigerated,Feed Animals,2024-06-05
+9ce54dc2-42e4-4a1e-afbe-200334ef73ac,Pescatarian,3,Snacks,18.93,8.59,10.34,Avoidable,Frozen,Compost,2024-06-05
+f512d787-f425-4bca-96ae-b8fcfe55cf21,Omnivore,2,Beverages,4.51,4.37,0.14,Avoidable,Pantry,Compost,2024-07-24
+e6c24cb9-4f8d-42b2-8f2a-692b8c56a968,Pescatarian,6,Snacks,1.31,0.74,0.57,Avoidable,Pantry,Donation,2024-08-12
+45594c42-0bf0-4b7a-9abc-db3f89b5ea09,Vegan,6,Snacks,12.78,3.64,9.14,Avoidable,Frozen,Donation,2024-03-16
+3810dbb8-4aae-4742-aeab-696a9d9c8a35,Omnivore,6,Beverages,8.08,2.38,5.7,Avoidable,Frozen,Donation,2024-03-19
+e73d5e37-e528-4269-9dc8-9569db9ac771,Pescatarian,4,Meat,12.63,3.76,8.87,Avoidable,Frozen,Compost,2024-07-06
+1dc47e8c-7861-4759-8b3a-cef8d031d5c7,Vegan,5,Vegetables,4.24,1.69,2.55,Avoidable,Refrigerated,Trash,2024-04-15
+a91142b4-d671-4e6d-b3d8-12f5f78b0977,Omnivore,3,Fruits,18.42,12.86,5.55,Avoidable,Frozen,Donation,2024-04-01
+cab4f2c7-f755-4791-8058-0abfe17a0b57,Vegan,2,Meat,2.04,1.81,0.23,Avoidable,Refrigerated,Trash,2024-08-13
+ee4866ba-3d5e-487c-b99c-64d847a1681c,Pescatarian,4,Meat,1.2,1.09,0.11,Avoidable,Frozen,Feed Animals,2024-09-20
+84167be5-831b-4f55-a360-0fbfbcc08e2e,Omnivore,4,Snacks,10.34,9.3,1.04,Avoidable,Refrigerated,Trash,2024-04-14
+dc91840f-d15c-4584-afa1-670bffbee375,Vegetarian,4,Grains,11.39,7.28,4.11,Avoidable,Refrigerated,Trash,2024-08-25
+9080b9e5-af1d-4275-b808-e845ec565c5b,Vegan,6,Dairy,8.14,3.88,4.26,Avoidable,Pantry,Feed Animals,2024-04-07
+6eac9ca9-6529-45e4-8e78-2c5a86ac104c,Vegan,2,Dairy,9.21,1.43,7.78,Avoidable,Frozen,Feed Animals,2024-07-25
+54e5f2b6-e897-4e71-b502-e97124c2d6d4,Vegetarian,2,Fruits,4.32,2.19,2.13,Avoidable,Pantry,Feed Animals,2024-09-10
+eb0a0c99-dc25-4bf9-ba87-c803c76776e0,Vegetarian,6,Fruits,1.76,1.52,0.25,Avoidable,Frozen,Donation,2024-03-03
+bedb2d0c-7733-45ef-923a-5274d33c56b9,Omnivore,3,Snacks,10.65,9.04,1.61,Avoidable,Refrigerated,Trash,2024-06-15
+5f656534-7003-4351-b263-acb3d5a660da,Omnivore,1,Snacks,6.77,4.03,2.74,Avoidable,Pantry,Compost,2024-07-12
+a80e8a96-b524-4a35-8a64-00dce28d8f13,Vegan,1,Dairy,11.95,7.76,4.19,Avoidable,Refrigerated,Donation,2024-06-07
+179551c2-f5a8-4e18-8f1e-774db6c417ea,Omnivore,1,Snacks,14.51,14.08,0.43,Avoidable,Refrigerated,Donation,2024-02-24
+dce00b83-0f04-4980-8a0e-65fcd6c5a59a,Vegetarian,5,Dairy,9.94,3.45,6.49,Avoidable,Refrigerated,Feed Animals,2024-04-11
+627aac0b-c66f-4f09-87c2-bb55ba220105,Vegetarian,3,Snacks,5.16,1.0,4.16,Avoidable,Frozen,Donation,2024-01-23
+36482833-21bf-40ec-bc03-0a3ed338cb1d,Vegetarian,4,Vegetables,17.72,17.01,0.7,Avoidable,Frozen,Trash,2024-01-03
+5e0b8bab-15e2-4bb6-b608-5e24015355ef,Vegan,4,Fruits,15.77,6.38,9.38,Avoidable,Refrigerated,Compost,2024-07-07
+1ec305a5-08a9-4712-a277-112f0811165f,Vegan,5,Meat,16.21,6.77,9.44,Avoidable,Pantry,Trash,2024-08-11
+2e977f2f-3440-40b7-8b43-3ec4c5ff0a66,Pescatarian,3,Meat,5.03,4.91,0.12,Avoidable,Frozen,Compost,2024-05-04
+f3f54ecd-4fa3-4441-8f07-75612fe9d101,Pescatarian,6,Snacks,17.55,2.67,14.88,Avoidable,Refrigerated,Trash,2024-08-25
+2c238e19-46d4-4130-9e65-4393dd0666e8,Vegan,2,Grains,13.89,5.83,8.06,Avoidable,Pantry,Compost,2024-02-11
+31b87296-8aab-476e-9195-05e00cf3709d,Pescatarian,3,Snacks,10.41,3.51,6.91,Avoidable,Frozen,Donation,2024-05-31
+f5d2c681-516a-49a1-8017-d9d37890eb0c,Vegan,5,Meat,4.51,0.77,3.74,Avoidable,Pantry,Trash,2024-09-24
+57b58cc0-fc96-4364-87bb-0b7d0e22e1ac,Omnivore,5,Fruits,13.73,13.64,0.09,Avoidable,Frozen,Compost,2024-08-31
+88719eaf-d8e2-414e-b3ea-90018ee3ed65,Vegetarian,5,Meat,8.17,1.97,6.2,Avoidable,Pantry,Feed Animals,2024-04-19
+3c3c19b1-12ef-4479-8259-240f78b0df9c,Omnivore,4,Meat,15.77,1.69,14.08,Avoidable,Frozen,Donation,2024-08-12
+70d91c4f-44c4-4051-ad80-2f031e413212,Omnivore,4,Grains,8.1,6.62,1.48,Avoidable,Pantry,Feed Animals,2024-06-18
+392f228e-30fb-499b-8d29-230819aa1932,Pescatarian,3,Snacks,1.62,1.62,0.0,Avoidable,Frozen,Compost,2024-03-15
+36e93be5-eae4-4885-9282-b4d0a33cc8e0,Pescatarian,5,Meat,17.31,14.16,3.15,Avoidable,Refrigerated,Feed Animals,2024-07-22
+7b82a070-4b33-4f4e-9577-795459b152c3,Omnivore,2,Meat,14.04,4.49,9.55,Avoidable,Frozen,Feed Animals,2024-04-06
+70985e9e-ff74-491f-91c4-e68d29688e53,Pescatarian,2,Grains,17.1,7.65,9.45,Avoidable,Frozen,Donation,2024-02-21
+7d6dbcd3-1c12-4030-a82a-8e3a1c329e0d,Vegan,2,Dairy,8.34,8.1,0.24,Avoidable,Refrigerated,Donation,2024-07-04
+1c6422d8-ccdd-4937-99f1-69a3b00d476f,Vegan,4,Snacks,3.91,1.78,2.13,Avoidable,Refrigerated,Donation,2024-04-23
+b65cef28-95e7-4b93-9ffd-c8e1eba99812,Omnivore,4,Beverages,15.99,14.62,1.38,Avoidable,Frozen,Trash,2024-04-27
+abd02fdb-e115-4ce1-81b4-91aee2763632,Vegetarian,2,Dairy,8.95,3.7,5.25,Avoidable,Refrigerated,Donation,2024-08-29
+b60de82a-96ec-45d9-a5d2-3c5e3ac250ac,Pescatarian,5,Grains,1.65,1.19,0.46,Avoidable,Refrigerated,Trash,2024-03-09
+d42b02f1-85ce-41bf-820c-4a0808180dbf,Vegan,3,Beverages,7.59,5.3,2.3,Avoidable,Frozen,Compost,2024-01-21
+788cded4-e141-4677-b9e2-d91f026d05b6,Vegan,2,Dairy,14.58,14.47,0.11,Avoidable,Pantry,Compost,2024-01-13
+ee3481e5-788c-4c20-9161-e7f8ecd0ca47,Omnivore,5,Beverages,9.3,2.34,6.96,Avoidable,Pantry,Trash,2024-09-14
+d7d4b27e-4187-46c9-99b1-a45220ba4ec7,Pescatarian,2,Meat,7.68,2.92,4.77,Avoidable,Frozen,Feed Animals,2024-02-25
+dbd95398-5a49-424e-960e-6b4f7683fe40,Pescatarian,5,Beverages,16.82,13.59,3.23,Avoidable,Refrigerated,Compost,2024-05-18
+f20a35d3-f9c9-4f67-8261-d183a52a4fff,Omnivore,2,Meat,15.03,8.42,6.61,Avoidable,Pantry,Donation,2024-04-04
+86d4e5d0-2306-446d-a7f6-544a84d72ae5,Vegetarian,3,Fruits,19.48,7.84,11.64,Avoidable,Refrigerated,Feed Animals,2024-03-02
+92b5dac9-04e1-49e9-bbf8-13854a5603d6,Omnivore,5,Vegetables,4.26,1.39,2.87,Avoidable,Frozen,Feed Animals,2024-07-31
+70612d1b-758e-4a21-b632-78e36b7c557d,Vegetarian,1,Snacks,14.14,12.31,1.83,Avoidable,Pantry,Donation,2024-03-18
+731cca07-b823-4057-95bf-6f613cc78395,Omnivore,5,Beverages,19.9,19.89,0.01,Avoidable,Frozen,Trash,2024-02-21
+c2e08d79-0e65-4c0b-8eab-15dfa849c42b,Vegan,1,Snacks,8.0,0.87,7.13,Avoidable,Frozen,Donation,2024-03-26
+0d729f42-7b0d-4554-8e66-ccb47ed1a0a8,Vegetarian,6,Vegetables,6.82,5.64,1.18,Avoidable,Pantry,Donation,2024-04-21
+c17c28cf-ad13-4d6c-84fe-44d3dbb5cf05,Vegetarian,6,Vegetables,2.77,0.92,1.85,Avoidable,Refrigerated,Compost,2024-01-12
