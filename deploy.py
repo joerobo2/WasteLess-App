@@ -156,10 +156,10 @@ with tabs[0]:
         recommendations = []
         if prediction[0] > 5.0:
             recommendations.append("1. Consider purchasing less food to better match your consumption needs.")
-        if dietary_preferences == 'Vegan' and waste > 3.0:
+        if dietary_preferences == 'Vegan' and waste_amount > 3.0:
             recommendations.append(
                 "2. Vegan diets can have perishable items - try to store food in optimal conditions to increase shelf life.")
-        if family_size > 5 and waste > 4.0:
+        if family_size > 5 and waste_amount > 4.0:
             recommendations.append(
                 "3. With a larger family, consider meal planning to ensure all food purchased is consumed.")
         if not recommendations:
